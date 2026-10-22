@@ -1,4 +1,5 @@
 ---
+counterpart: "/en/research/"
 title: "研究内容"
 source_title: "研究内容"
 source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%B8%A6%B5%E6%C6%E2%CD%C6"
@@ -27,9 +28,9 @@ home: false
 
 <a id="content_1_3"></a>
 
-#### Learning-to-Lank <a id="d7466475"></a>
+#### Learning to Rank <a id="d7466475"></a>
 
-- **Masahito Ohue**, Shogo D. Suzuki, Yutaka Akiyama: Learning-to-rank technique based on ignoring meaningless ranking orders between compounds, *Journal of Molecular Graphics and Modelling*. doi: 10.1016/j.jmgm.2019.07.009 (in press)
+- **Masahito Ohue**, Shogo D. Suzuki, Yutaka Akiyama: Learning-to-rank technique based on ignoring meaningless ranking orders between compounds, *Journal of Molecular Graphics and Modelling*, 92:192-200, 2019. doi: 10.1016/j.jmgm.2019.07.009
     
   [ PubMed | [Journal Website](https://doi.org/10.1016/j.jmgm.2019.07.009) | [github](https://github.com/akiyamalab/SPDRank) ]
 
@@ -60,7 +61,7 @@ home: false
 
 Beta分布を利用した新しい近傍正則化付ロジスティック行列因子分解法を開発しました。
 
-- Tomohiro Ban, **Masahito Ohue**, Yutaka Akiyama: NRLMFβ: Bata-distribution-rescored Neighborhood Regularized Logistic Matrix Factorization for Improving Performance of Drug–Target Interaction Prediction, *Biochemistry and Biophysics Reports*, 18:100615, 2019. doi: 10.1016/j.bbrep.2019.01.008
+- Tomohiro Ban, **Masahito Ohue**, Yutaka Akiyama: NRLMFβ: Beta-distribution-rescored Neighborhood Regularized Logistic Matrix Factorization for Improving Performance of Drug–Target Interaction Prediction, *Biochemistry and Biophysics Reports*, 18:100615, 2019. doi: 10.1016/j.bbrep.2019.01.008
     
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30793050) | [Journal Website](https://doi.org/10.1016/j.bbrep.2019.01.008) | [github](https://github.com/akiyamalab/NRLMFb) ]
 
@@ -107,7 +108,6 @@ Beta分布を利用した新しい近傍正則化付ロジスティック行列�
 
 ### MEGADOCK-Web <a id="ac69162b"></a>
 
-logo.png
 
 - Takanori Hayashi, Yuri Matsuzaki, Keisuke Yanagisawa, **Masahito Ohue**\*, Yutaka Akiyama\*: MEGADOCK-Web: an integrated database of high-throughput structure-based protein-protein interaction predictions, *BMC Bioinformatics*, **19**(Suppl 4): 62, 2018. doi: 10.1186/s12859-018-2073-x (In Proc. APBC2018)
     
@@ -182,7 +182,7 @@ rPSCと呼ばれる独自の形状相補性スコアモデルをベースとし�
 
 ### タンパク質-RNA間相互作用予測 <a id="i6b59038"></a>
 
-ヒトゲノム中にはnon-coding RNAが約1500個ほどコードされているといわれており，タンパク質同士だけでなく，多数のRNAがタンパク質と相互作用しています．我々は独自のタンパク質間相互作用予測の手法を応用した，新しいタンパク質-RNA間相互作用予測の手法を研究しています．
+多数のnon-coding RNAがタンパク質と相互作用し，生命機能の制御に関わっています．我々は独自のタンパク質間相互作用予測の手法を応用した，新しいタンパク質-RNA間相互作用予測の手法を研究しています．
 
 ![pri.png](/assets/e66920e6acd4.png)
 

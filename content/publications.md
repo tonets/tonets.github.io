@@ -1,4 +1,5 @@
 ---
+counterpart: "/en/publications/"
 title: "研究成果"
 source_title: "研究成果"
 source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%B8%A6%B5%E6%C0%AE%B2%CC"

@@ -1,0 +1,12 @@
+{{ $source := site.GetPage .Params.shared_page }}
+{{ if not $source }}{{ errorf "Shared source missing for %s" .Path }}{{ end }}
+{{ $body := $source.Content }}{{ $toc := $source.TableOfContents }}
+{{ range index hugo.Data.shared_translations .Params.shared_page }}
+  {{ if or (eq $.Params.shared_page "publications") (strings.Contains $source.RawContent (printf "# %s" .ja)) }}
+    {{ $body = replace $body (printf ">%s " .ja) (printf ">%s " .en) }}
+    {{ $body = replace $body (printf ">%s<" .ja) (printf ">%s<" .en) }}
+  {{ else }}{{ $body = replace $body .ja .en }}{{ end }}
+  {{ $toc = replace $toc (printf ">%s<" .ja) (printf ">%s<" .en) }}
+  {{ $toc = replace $toc (printf ">%s " .ja) (printf ">%s " .en) }}
+{{ end }}
+{{ return (dict "body" $body "toc" $toc) }}

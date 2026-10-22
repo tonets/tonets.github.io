@@ -1,4 +1,5 @@
 ---
+counterpart: "/en/profile/"
 title: "プロフィール"
 source_title: "プロフィール"
 source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%A5%D7%A5%ED%A5%D5%A5%A3%A1%BC%A5%EB"
@@ -10,16 +11,11 @@ home: false
 <a id="content_1_0"></a><a id="i1fad117"></a>
 <a id="content_1_1"></a>
 
-### 所属 <a id="n52034e4"></a>
+## 所属 <a id="n52034e4"></a>
 
-[東京科学大学](http://www.isct.ac.jp) [情報理工学院](https://www.isct.ac.jp/ja/001/about/organizations/school-of-computing) [情報工学系](http://educ.titech.ac.jp/cs/) 准教授  
-（主担当：[知能情報コース](https://www.titech.ac.jp/graduate_school/graduate_majors/ai/)、副担当：[情報工学コース](https://www.titech.ac.jp/graduate_school/graduate_majors/cs/)）
+{{< affiliations >}}
 
-[東京科学大学](http://www.isct.ac.jp) [新産業創成研究院](https://www.isct.ac.jp/ja/001/about/organizations/institute-of-new-industry-incubation) [AI-Science Nexusセンター](https://www.aisnec.nii.isct.ac.jp/) 生命・医科学AI部門（兼担）
-
-東京科学大学 [Total Health Design Visionary Initiative](https://www.isct.ac.jp/ja/001/about/organizations/total-health-design) Sub-PD
-
-Link: [東京科学大学](http://www.isct.ac.jp) [情報理工学院](https://www.isct.ac.jp/ja/001/about/organizations/school-of-computing) [情報工学系](http://educ.titech.ac.jp/cs/) [大上研究室](http://www.li.comp.isct.ac.jp/)
+主担当：知能情報コース。副担当：情報工学コース。
 
 <a id="content_1_2"></a>
 

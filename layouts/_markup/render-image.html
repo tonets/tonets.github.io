@@ -1,1 +1,4 @@
-<img src="{{ if hasPrefix .Destination "/" }}{{ (strings.TrimPrefix "/" .Destination) | relURL }}{{ else }}{{ .Destination | safeURL }}{{ end }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- $asset := index hugo.Data.images (path.Base .Destination) -}}
+{{- $kind := "diagram" -}}{{- $alt := .PlainText -}}
+{{- with $asset -}}{{- $kind = .kind -}}{{- $alt = .alt -}}{{- end -}}
+<img class="content-image image-{{ $kind }}" src="{{ if hasPrefix .Destination "/" }}{{ (strings.TrimPrefix "/" .Destination) | relURL }}{{ else }}{{ .Destination | safeURL }}{{ end }}" alt="{{ $alt }}" loading="lazy" decoding="async"{{ with $asset.width }} width="{{ . }}"{{ end }}{{ with $asset.height }} height="{{ . }}"{{ end }}{{ with .Title }} title="{{ . }}"{{ end }}>

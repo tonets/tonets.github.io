@@ -49,3 +49,5 @@ toc: false
 - [過去のニュース](/news/)
 - [音楽系雑記](/other/music/)
 - [麻雀](/other/mahjong/)
+
+- [ニュース詳細（2022〜2026年）](/news-recent/)

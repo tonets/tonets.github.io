@@ -1,4 +1,5 @@
 ---
+counterpart: "/en/news/"
 title: "過去のニュース"
 source_title: "過去のニュース"
 source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%B2%E1%B5%EE%A4%CE%A5%CB%A5%E5%A1%BC%A5%B9"

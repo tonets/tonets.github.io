@@ -1,0 +1,510 @@
+{
+  "publications": [
+    {
+      "ja": "査読付き国際会議（フルペーパー，口頭発表）",
+      "en": "Peer-reviewed conference papers"
+    },
+    {
+      "ja": "プレプリント（under review）",
+      "en": "Preprints (under review)"
+    },
+    {
+      "ja": "国際会議（ポスター発表，査読なし）",
+      "en": "International conference posters (not peer reviewed)"
+    },
+    {
+      "ja": "国際会議（口頭発表，査読なし）",
+      "en": "International conference talks (not peer reviewed)"
+    },
+    {
+      "ja": "査読付き学術論文誌",
+      "en": "Peer-reviewed journal articles"
+    },
+    {
+      "ja": "国内会議（査読無）",
+      "en": "Domestic conferences (not peer reviewed)"
+    },
+    {
+      "ja": "その他の研究発表",
+      "en": "Other research presentations"
+    },
+    {
+      "ja": "その他の研究資金",
+      "en": "Other research funding"
+    },
+    {
+      "ja": "研究以外の講演",
+      "en": "Other talks"
+    },
+    {
+      "ja": "競争的研究資金",
+      "en": "Competitive research funding"
+    },
+    {
+      "ja": "その他の記事",
+      "en": "Other articles"
+    },
+    {
+      "ja": "招待講演",
+      "en": "Invited talks"
+    },
+    {
+      "ja": "研究報告",
+      "en": "Technical reports"
+    },
+    {
+      "ja": "学位論文",
+      "en": "Theses"
+    },
+    {
+      "ja": "解説",
+      "en": "Reviews and commentary"
+    },
+    {
+      "ja": "著書",
+      "en": "Books and book chapters"
+    },
+    {
+      "ja": "特許",
+      "en": "Patents"
+    },
+    {
+      "ja": "報道",
+      "en": "Media coverage"
+    },
+    {
+      "ja": "記事",
+      "en": "Articles"
+    }
+  ],
+  "research": [
+    {
+      "ja": "タンパク質間の相互作用は，体内での酵素反応や細胞内外での情報伝達の基本となり，生命活動の根幹を支えています．我々はタンパク質の立体構造に基づくドッキング計算から，相互作用をするタンパク質ペアを高速に予測する方法を研究しています．",
+      "en": "Protein interactions underlie enzyme reactions and cellular signaling. We use structure-based docking to rapidly identify protein pairs that may interact."
+    },
+    {
+      "ja": "この研究では，MEGADOCKによってアポトーシスに関連するタンパク質の相互作用ネットワークを予測するとともに，既知複合体構造をテンプレート情報として利用する手法と組み合わせることで適合率の高い予測が行えることを示しました．",
+      "en": "We predicted apoptosis-related protein interaction networks with MEGADOCK and showed that combining docking with templates from known complex structures improves prediction precision."
+    },
+    {
+      "ja": "多数のnon-coding RNAがタンパク質と相互作用し，生命機能の制御に関わっています．我々は独自のタンパク質間相互作用予測の手法を応用した，新しいタンパク質-RNA間相互作用予測の手法を研究しています．",
+      "en": "Many non-coding RNAs interact with proteins and participate in biological regulation. We adapt our protein interaction prediction methods to predict protein-RNA interactions."
+    },
+    {
+      "ja": "タンパク質の立体構造から，それらの三次元形状同士の相補性（形の凸凹の相性）や表面電荷の相互作用などを解析して，複合体の形を高速に予測する方法を研究しています．",
+      "en": "We study fast methods for predicting complex structures by evaluating shape complementarity and interactions between surface charges."
+    },
+    {
+      "ja": "rPSCと呼ばれる独自の形状相補性スコアモデルをベースとし，静電相互作用や脱水和自由エネルギーをモデル化した，高速に計算可能なスコアモデルを提案しています．",
+      "en": "Building on our rPSC shape-complementarity model, we develop efficient scoring functions that account for electrostatic interactions and desolvation free energy."
+    },
+    {
+      "ja": "並列計算機（スーパーコンピュータ）を利用したタンパク質ドッキング予測計算を行うソフトウェアを開発しています．",
+      "en": "We develop protein docking software for parallel computers and supercomputers."
+    },
+    {
+      "ja": "標的に対する化合物の活性情報を教師データとして未知の化合物の活性を予測する機械学習手法を研究しています。",
+      "en": "We develop machine learning methods that use measured activity data to predict the activity of unseen compounds against a target."
+    },
+    {
+      "ja": "FFT-baseのドッキングアルゴリズムを踏襲しながらも，スコアモデルの改良やスレッド並列化などによって",
+      "en": "Its FFT-based docking algorithm combines an improved scoring model with thread-level parallelism"
+    },
+    {
+      "ja": "これらの疾病に関わる創薬ターゲットとして，アポトーシスパスウェイ中のタンパク質群が注目されています．",
+      "en": "Proteins in apoptosis pathways are therefore studied as drug targets."
+    },
+    {
+      "ja": "ベイズ最適化 (GP-MI法) によってDTI予測の学習にかかる時間を約10倍高速化しました。",
+      "en": "Bayesian optimization using the GP-MI method reduced training time for DTI prediction by approximately a factor of ten."
+    },
+    {
+      "ja": "この性質を実現しているのは，刺激に応じて系の内部状態を変えられる細胞内のシグナル伝達系です．",
+      "en": "This behavior is controlled by intracellular signaling systems that change their internal state in response to stimuli."
+    },
+    {
+      "ja": "本研究では，この系の既知のPPIを「正解」と定義してMEGADOCKの評価を行うとともに，",
+      "en": "We evaluated MEGADOCK against known interactions in this system and"
+    },
+    {
+      "ja": "Beta分布を利用した新しい近傍正則化付ロジスティック行列因子分解法を開発しました。",
+      "en": "We developed a neighborhood-regularized logistic matrix factorization method that rescales predictions using a beta distribution."
+    },
+    {
+      "ja": "NVIDIA Application Catalogにも掲載されています：",
+      "en": "Also listed in the NVIDIA Application Catalog: "
+    },
+    {
+      "ja": "アポトーシスの増加に起因するものとしてはAIDSや神経変性疾患が挙げられ，",
+      "en": "while increased apoptosis is associated with conditions including AIDS and neurodegenerative disease."
+    },
+    {
+      "ja": "タンパク質の3次元構造に基づいた高速なプレ・スクリーニングを提供します．",
+      "en": "Spresso provides fast compound prescreening based on three-dimensional protein structures."
+    },
+    {
+      "ja": "タンパク質の立体構造情報を利用するタンパク質間相互作用予測システムです．",
+      "en": "MEGADOCK predicts protein-protein interactions using three-dimensional protein structures."
+    },
+    {
+      "ja": "タンパク質と薬剤の２部ネットワークを予測する新規手法を開発しています。",
+      "en": "We develop methods for predicting bipartite interaction networks between proteins and drugs."
+    },
+    {
+      "ja": "アポトーシスとは，個体の状態を良好に保つために積極的に引き起こされる，",
+      "en": "Apoptosis is a regulated cell-death process"
+    },
+    {
+      "ja": "栄養となる物質のより多い方へ移動する化学走性（走化性）を示します．",
+      "en": "moves toward higher nutrient concentrations through chemotaxis."
+    },
+    {
+      "ja": "アポトーシスの減少に起因する疾病として癌や自己免疫疾患があり，",
+      "en": "Reduced apoptosis is associated with cancer and autoimmune disease,"
+    },
+    {
+      "ja": "外界からの刺激に応答して運動が起こる性質を，走性と呼びます．",
+      "en": "Taxis is movement in response to an external stimulus."
+    },
+    {
+      "ja": "外界の状態を感知し，内部状態を変えつつ対応するという行動は，",
+      "en": "Sensing external conditions and responding through internal-state changes"
+    },
+    {
+      "ja": "例えば，大腸菌は飢餓状態になると，べん毛の遺伝子を発現し，",
+      "en": "For example, under nutrient starvation, E. coli expresses flagellar genes and"
+    },
+    {
+      "ja": "きわめてエネルギー効率の良い分子モーターとしても注目され，",
+      "en": "are also studied as highly energy-efficient molecular motors,"
+    },
+    {
+      "ja": "リンク指標を用いたマルチプルカーネル法を提案しました。",
+      "en": "We proposed a multiple-kernel method using link indicators."
+    },
+    {
+      "ja": "この系の制御に関わる未知の相互作用の検出を試みました．",
+      "en": "investigated previously unknown interactions involved in its regulation."
+    },
+    {
+      "ja": "Drug-Target Interaction予測",
+      "en": "Drug-target interaction prediction"
+    },
+    {
+      "ja": "また，走化性系によって制御されるべん毛モーターは，",
+      "en": "Flagellar motors regulated by chemotaxis systems"
+    },
+    {
+      "ja": "学習という概念にもつながる大変興味深い現象です．",
+      "en": "is an interesting phenomenon related to the concept of learning."
+    },
+    {
+      "ja": "機械分野への応用研究も知られています．",
+      "en": "including for potential engineering applications."
+    },
+    {
+      "ja": "ヒトアポトーシスパスウェイ解析への応用",
+      "en": "Application to human apoptosis"
+    },
+    {
+      "ja": "タンパク質間相互作用ネットワーク予測",
+      "en": "Protein interaction network prediction"
+    },
+    {
+      "ja": "新しいボクセルスコアモデルの開発",
+      "en": "Voxel-based scoring models"
+    },
+    {
+      "ja": "タンパク質-RNA間相互作用予測",
+      "en": "Protein-RNA interaction prediction"
+    },
+    {
+      "ja": "細菌走化性パスウェイ解析への応用",
+      "en": "Application to bacterial chemotaxis"
+    },
+    {
+      "ja": "制御された細胞の自殺機構です．",
+      "en": "that contributes to the maintenance of an organism."
+    },
+    {
+      "ja": "高速な計算を実現しています．",
+      "en": "to achieve fast computation."
+    },
+    {
+      "ja": "タンパク質間ドッキング予測",
+      "en": "Protein-protein docking prediction"
+    },
+    {
+      "ja": "ペプチド創薬・中分子創薬",
+      "en": "Peptide and middle-molecule drug discovery"
+    },
+    {
+      "ja": "詳しくはこちら：",
+      "en": "Learn more: "
+    },
+    {
+      "ja": "ソフトウェア",
+      "en": "Software (Japanese)"
+    }
+  ],
+  "awards": [
+    {
+      "ja": "DEIM2010 第2回データ工学と情報マネジメントに関するフォーラム 学生奨励賞",
+      "en": "DEIM2010 Student Encouragement Award"
+    },
+    {
+      "ja": "特定非営利活動法人 情報計算化学生物学会(CBI学会) CBI学会若手奨励賞",
+      "en": "CBI Society Young Investigator Award"
+    },
+    {
+      "ja": "生体内タンパク質を標的とするバイオナノマテリアル予測技術の先駆的研究",
+      "en": "Pioneering prediction technologies for bionanomaterials targeting proteins in living organisms"
+    },
+    {
+      "ja": "石川工業高等専門学校 電子情報工学科 学業成績優秀賞（首席卒業）",
+      "en": "Academic Excellence Award, Department of Electronics and Information Engineering, Ishikawa National College of Technology (top graduate)"
+    },
+    {
+      "ja": "モダリティを横断する創薬支援のための計算分子設計技術に関する研究",
+      "en": "Computational molecular design technologies to support drug discovery across modalities"
+    },
+    {
+      "ja": "情報処理学会数理モデル化と問題解決研究会プレゼンテーション賞",
+      "en": "Presentation Award, IPSJ SIGMPS"
+    },
+    {
+      "ja": "平成31年度 科学技術分野の文部科学大臣表彰 若手科学者賞",
+      "en": "Young Scientists’ Award, Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology"
+    },
+    {
+      "ja": "一般社団法人 情報処理学会 マイクロソフト情報学研究賞",
+      "en": "IPSJ Microsoft Research Award on Informatics"
+    },
+    {
+      "ja": "一般財団法人 安藤研究所 第35回安藤博記念学術奨励賞",
+      "en": "35th Hiroshi Ando Memorial Academic Encouragement Award"
+    },
+    {
+      "ja": "特定非営利活動法人 情報計算化学生物学会(CBI学会)",
+      "en": "Chem-Bio Informatics Society"
+    },
+    {
+      "ja": "「Science Tokyoの星」特別賞【STAR】",
+      "en": "Special Award for Science Tokyo Advanced Researchers (STAR)"
+    },
+    {
+      "ja": "第6回生命医薬情報学連合大会 優秀ポスター発表賞",
+      "en": "IIBMP2017 Excellent Poster Presentation Award"
+    },
+    {
+      "ja": "モダリティを横断する創薬インフォマティクスの開拓",
+      "en": "Pioneering drug discovery informatics across modalities"
+    },
+    {
+      "ja": "生体内のタンパク質等の相互作用の網羅的な予測研究",
+      "en": "Comprehensive prediction of interactions involving proteins and other biological molecules"
+    },
+    {
+      "ja": "一般社団法人 日本生物物理学会 若手招待講演賞",
+      "en": "Early Career Award in Biophysics, Biophysical Society of Japan"
+    },
+    {
+      "ja": "電子情報通信学会北陸支部 学生優秀論文発表賞",
+      "en": "IEICE Hokuriku Section Excellent Student Paper Presentation Award"
+    },
+    {
+      "ja": "GBDTによる化合物の血液胎盤関門透過性予測",
+      "en": "Prediction of blood-placental barrier permeability of compounds using GBDT"
+    },
+    {
+      "ja": "第5回生命医薬情報学連合大会 ポスター賞",
+      "en": "IIBMP2016 Poster Awards"
+    },
+    {
+      "ja": "情報処理学会第73回全国大会学生奨励賞",
+      "en": "Student Encouragement Award, 73rd IPSJ National Convention"
+    },
+    {
+      "ja": "一般財団法人 バイオインダストリー協会",
+      "en": "Japan Bioindustry Association"
+    },
+    {
+      "ja": "CBI学会2017年大会 ポスター賞",
+      "en": "CBI Society Annual Meeting 2017 Poster Award"
+    },
+    {
+      "ja": "CBI学会2016年大会 ポスター賞",
+      "en": "CBI Society Annual Meeting 2016 Poster Award"
+    },
+    {
+      "ja": "第10回バイオインダストリー奨励賞",
+      "en": "10th Bioindustry Encouragement Award"
+    },
+    {
+      "ja": "生体分子の計算設計技術に関する研究",
+      "en": "Computational design technologies for biomolecules"
+    },
+    {
+      "ja": "手島精一記念研究賞（博士論文賞）",
+      "en": "Seiichi Tejima Research Award (Doctoral Dissertation Award)"
+    },
+    {
+      "ja": "2009年SIGBIO学生奨励賞",
+      "en": "2009 SIGBIO Student Encouragement Award"
+    },
+    {
+      "ja": "網羅的なタンパク質間相互作用予測",
+      "en": "Comprehensive prediction of protein-protein interactions"
+    },
+    {
+      "ja": "[Poster Award受賞]",
+      "en": "[Poster Award]"
+    },
+    {
+      "ja": "情報処理学会 山下記念研究賞",
+      "en": "IPSJ Yamashita SIG Research Award"
+    },
+    {
+      "ja": "一般社団法人 情報処理学会",
+      "en": "Information Processing Society of Japan"
+    },
+    {
+      "ja": "一般財団法人 安藤研究所",
+      "en": "Ando Laboratory"
+    },
+    {
+      "ja": "日本学術振興会 育志賞",
+      "en": "JSPS Ikushi Prize"
+    },
+    {
+      "ja": "東工大挑戦的研究賞",
+      "en": "Tokyo Tech Challenging Research Award"
+    },
+    {
+      "ja": "（ポスター発表）",
+      "en": " (poster)"
+    },
+    {
+      "ja": "船井研究奨励賞",
+      "en": "Funai Research Encouragement Award"
+    },
+    {
+      "ja": "東京科学大学",
+      "en": "Institute of Science Tokyo"
+    },
+    {
+      "ja": "対象業績：",
+      "en": "Recognized work: "
+    },
+    {
+      "ja": "受賞業績：",
+      "en": "Recognized work: "
+    },
+    {
+      "ja": "受賞題目：",
+      "en": "Recognized work: "
+    },
+    {
+      "ja": "授与機関：",
+      "en": "Awarding organization: "
+    },
+    {
+      "ja": "受賞者一覧",
+      "en": "List of recipients"
+    },
+    {
+      "ja": "育志賞概要",
+      "en": "About the Ikushi Prize"
+    },
+    {
+      "ja": "（２件）",
+      "en": " (two awards)"
+    }
+  ],
+  "news": [
+    {
+      "ja": "2006年",
+      "en": "2006"
+    },
+    {
+      "ja": "2007年",
+      "en": "2007"
+    },
+    {
+      "ja": "2008年",
+      "en": "2008"
+    },
+    {
+      "ja": "2009年",
+      "en": "2009"
+    },
+    {
+      "ja": "2010年",
+      "en": "2010"
+    },
+    {
+      "ja": "2011年",
+      "en": "2011"
+    },
+    {
+      "ja": "2012年",
+      "en": "2012"
+    },
+    {
+      "ja": "2013年",
+      "en": "2013"
+    },
+    {
+      "ja": "2014年",
+      "en": "2014"
+    },
+    {
+      "ja": "2015年",
+      "en": "2015"
+    },
+    {
+      "ja": "2016年",
+      "en": "2016"
+    },
+    {
+      "ja": "2017年",
+      "en": "2017"
+    },
+    {
+      "ja": "2018年",
+      "en": "2018"
+    },
+    {
+      "ja": "2019年",
+      "en": "2019"
+    },
+    {
+      "ja": "2020年",
+      "en": "2020"
+    },
+    {
+      "ja": "2021年",
+      "en": "2021"
+    },
+    {
+      "ja": "2022年",
+      "en": "2022"
+    },
+    {
+      "ja": "2023年",
+      "en": "2023"
+    },
+    {
+      "ja": "2024年",
+      "en": "2024"
+    },
+    {
+      "ja": "2025年",
+      "en": "2025"
+    },
+    {
+      "ja": "2026年",
+      "en": "2026"
+    }
+  ]
+}

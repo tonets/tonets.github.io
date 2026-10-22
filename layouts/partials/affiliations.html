@@ -1,0 +1,2 @@
+{{ $lang := .Params.locale | default "ja" }}{{ $person := hugo.Data.person }}
+<div class="affiliations"><p>{{ index $person.affiliation $lang }}{{ if eq $lang "ja" }} {{ index $person.role $lang }}{{ else }}<br>{{ index $person.role $lang }}{{ end }}</p><ul>{{ range $person.appointments }}<li><a href="{{ .url }}">{{ index . $lang }}</a></li>{{ end }}</ul></div>

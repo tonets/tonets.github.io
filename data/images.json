@@ -1,0 +1,138 @@
+{
+  "04edf7a05619.png": {
+    "kind": "icon",
+    "alt": "Open access",
+    "width": 75,
+    "height": 20
+  },
+  "7ad3b301ec91.png": {
+    "kind": "icon",
+    "alt": "Open access",
+    "width": 75,
+    "height": 20
+  },
+  "55f8b4747ffa.png": {
+    "kind": "icon",
+    "alt": "Google Scholar",
+    "width": 381,
+    "height": 64
+  },
+  "f6956cfe4d41.png": {
+    "kind": "icon",
+    "alt": "ORCID",
+    "width": 500,
+    "height": 500
+  },
+  "bc1798d4bbdd.png": {
+    "kind": "badge",
+    "alt": "researchmap",
+    "width": 1212,
+    "height": 164
+  },
+  "c7da0527876a.png": {
+    "kind": "badge",
+    "alt": "KAKEN",
+    "width": 472,
+    "height": 86
+  },
+  "68e6155a1793.png": {
+    "kind": "badge",
+    "alt": "Science Tokyo",
+    "width": 927,
+    "height": 250
+  },
+  "b5802aae2cf3.png": {
+    "kind": "badge",
+    "alt": "Science Tokyo",
+    "width": 927,
+    "height": 250
+  },
+  "d360603fe755.png": {
+    "kind": "badge",
+    "alt": "Science Tokyo",
+    "width": 927,
+    "height": 250
+  },
+  "4dd72bfb02a4.png": {
+    "kind": "logo",
+    "alt": "Spresso",
+    "width": 1259,
+    "height": 1119
+  },
+  "e332429c7bfb.png": {
+    "kind": "logo",
+    "alt": "MEGADOCK",
+    "width": 382,
+    "height": 135
+  },
+  "1c679a26f6a1.jpg": {
+    "kind": "portrait",
+    "alt": "Masahito Ohue"
+  },
+  "488eee0c153a.png": {
+    "kind": "diagram",
+    "alt": "Molecular graph activity prediction model",
+    "width": 1232,
+    "height": 471
+  },
+  "29dfed6e95a7.png": {
+    "kind": "diagram",
+    "alt": "Graph convolutional neural network",
+    "width": 516,
+    "height": 475
+  },
+  "3985cbc2df44.png": {
+    "kind": "diagram",
+    "alt": "Link indicators for compound-protein interaction prediction",
+    "width": 1872,
+    "height": 1296
+  },
+  "256de92e912d.png": {
+    "kind": "diagram",
+    "alt": "Protein-protein docking prediction",
+    "width": 585,
+    "height": 256
+  },
+  "f43799a9a85a.png": {
+    "kind": "diagram",
+    "alt": "Protein interaction network prediction",
+    "width": 701,
+    "height": 466
+  },
+  "e66920e6acd4.png": {
+    "kind": "diagram",
+    "alt": "Protein-RNA interaction prediction",
+    "width": 578,
+    "height": 300
+  },
+  "5a70b9243997.png": {
+    "kind": "diagram",
+    "alt": "Bacterial chemotaxis pathway",
+    "width": 472,
+    "height": 189
+  },
+  "a88bc2b6c82d.png": {
+    "kind": "diagram",
+    "alt": "Apoptosis pathway interaction network",
+    "width": 629,
+    "height": 286
+  },
+  "fa2b1e79606c.png": {
+    "kind": "logo",
+    "alt": "MEGADOCK",
+    "width": 637,
+    "height": 226
+  },
+  "dfc37873fab0.png": {
+    "kind": "diagram",
+    "alt": "Distribution of decoy ligand centers",
+    "width": 384,
+    "height": 288
+  },
+  "1ACB_Centers.png": {
+    "kind": "diagram",
+    "alt": "Distribution of decoy ligand centers",
+    "width": 384,
+    "height": 288
+  }
+}

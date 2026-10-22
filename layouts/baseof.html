@@ -1,26 +1,26 @@
 <!doctype html>
-<html lang="{{ .Params.locale | default "ja" }}">
+{{ $lang := .Params.locale | default "ja" }}{{ $person := hugo.Data.person }}
+{{ $ja := .RelPermalink }}{{ $en := "en/" | relURL }}
+{{ if eq $lang "en" }}{{ $en = .RelPermalink }}{{ $ja = (strings.TrimPrefix "/" (.Params.counterpart | default "/")) | relURL }}{{ else }}{{ with .Params.counterpart }}{{ $en = (strings.TrimPrefix "/" .) | relURL }}{{ end }}{{ end }}
+<html lang="{{ $lang }}">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | Masahito Ohue{{ end }}</title>
-<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<meta name="description" content="{{ if eq $lang "en" }}Personal website of Masahito Ohue, Associate Professor at Institute of Science Tokyo. Research, publications, and profile.{{ else }}{{ .Description | default .Site.Params.description }}{{ end }}">
 <meta name="color-scheme" content="light"><link rel="stylesheet" href="{{ "assets/site.css" | relURL }}">
-{{ if not (hasPrefix .Site.BaseURL "https://example.invalid") }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ with .Params.counterpart }}<link rel="alternate" hreflang="{{ if eq $lang "en" }}ja{{ else }}en{{ end }}" href="{{ (strings.TrimPrefix "/" .) | absURL }}">{{ end }}
 </head>
 <body id="top">
-<a class="skip" href="#main">本文へ / Skip to content</a>
-<header class="site-header"><div class="header-inner"><a class="brand" href="{{ "" | relURL }}"><span class="brand-mark">MO</span><span>MASAHITO OHUE<small>SCIENCE TOKYO</small></span></a><nav aria-label="Language"><a href="{{ "" | relURL }}" lang="ja">日本語</a><span>/</span><a href="{{ "en/" | relURL }}" lang="en">English</a></nav></div></header>
+<a class="skip" href="#main">{{ if eq $lang "en" }}Skip to content{{ else }}本文へ{{ end }}</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="{{ if eq $lang "en" }}{{ "en/" | relURL }}{{ else }}{{ "" | relURL }}{{ end }}"><span class="brand-mark">MO</span><span>MASAHITO OHUE<small>SCIENCE TOKYO</small></span></a><nav aria-label="Language"><a href="{{ $ja }}" lang="ja"{{ if eq $lang "ja" }} aria-current="page"{{ end }}>日本語</a><span>/</span><a href="{{ $en }}" lang="en"{{ if eq $lang "en" }} aria-current="page"{{ end }}{{ if not .Params.counterpart }} title="English homepage"{{ end }}>English</a></nav></div></header>
 <div class="shell">
-<aside class="sidebar"><p class="nav-label">{{ if eq .Params.locale "en" }}PERSONAL WEBSITE{{ else }}個人ウェブサイト{{ end }}</p>
-<nav aria-label="Main navigation">{{ if eq .Params.locale "en" }}
-{{ range slice (dict "name" "Home" "path" "en/") (dict "name" "Profile" "path" "en/profile/") (dict "name" "Publications" "path" "en/publications/") }}<a href="{{ .path | relURL }}">{{ .name }}</a>{{ end }}
-{{ else }}
-{{ range slice (dict "name" "トップ" "path" "") (dict "name" "プロフィール" "path" "profile/") (dict "name" "研究内容" "path" "research/") (dict "name" "研究成果" "path" "publications/") (dict "name" "受賞" "path" "awards/") (dict "name" "過去のニュース" "path" "news/") (dict "name" "研究メモ" "path" "notes/") (dict "name" "その他" "path" "other/") (dict "name" "所属希望の方へ" "path" "join/") }}<a href="{{ .path | relURL }}">{{ .name }}</a>{{ end }}
-{{ end }}</nav>
-<div class="sidebar-foot"><a href="{{ "archive/" | relURL }}">全ページ一覧 / All pages</a><a href="https://www.li.comp.isct.ac.jp/">Ohue Laboratory <span aria-hidden="true">↗</span></a><a href="https://www.isct.ac.jp/">Institute of Science Tokyo <span aria-hidden="true">↗</span></a></div>
+<aside class="sidebar"><p class="nav-label">{{ if eq $lang "en" }}PERSONAL WEBSITE{{ else }}個人ウェブサイト{{ end }}</p>
+<nav aria-label="Main navigation">{{ range hugo.Data.navigation }}{{ $key := printf "%s_path" $lang }}<a href="{{ index . $key | relURL }}"{{ if and (eq $lang "en") (eq .ja_path .en_path) }} lang="ja"{{ end }}>{{ index . $lang }}</a>{{ end }}</nav>
+<div class="sidebar-foot"><a href="{{ "archive/" | relURL }}">{{ if eq $lang "en" }}All pages (Japanese){{ else }}全ページ一覧{{ end }}</a><a href="{{ index $person.lab $lang }}">Ohue Laboratory <span aria-hidden="true">↗</span></a><a href="https://www.isct.ac.jp/{{ $lang }}/">Institute of Science Tokyo <span aria-hidden="true">↗</span></a></div>
 </aside>
 <main id="main">{{ block "main" . }}{{ end }}</main>
 </div>
-<footer><div><span>© Masahito Ohue</span><a href="#top">ページ上部へ ↑</a></div></footer>
+<footer><div><span>© Masahito Ohue</span><a href="#top">{{ if eq $lang "en" }}Back to top ↑{{ else }}ページ上部へ ↑{{ end }}</a></div></footer>
 <script src="{{ "assets/site.js" | relURL }}" defer></script>
 </body></html>

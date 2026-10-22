@@ -1,6 +1,10 @@
+{{ $lang := .Params.locale | default "ja" }}{{ $person := hugo.Data.person }}
+{{ $toc := .TableOfContents }}{{ $sharedBody := "" }}
+{{ with .Params.shared_page }}{{ $shared := partial "shared-content.html" $ }}{{ $sharedBody = $shared.body }}{{ $toc = $shared.toc }}{{ end }}
 {{ if .Params.home }}
-<section class="hero"><div><p class="eyebrow">BIOINFORMATICS & DRUG DISCOVERY</p><h1>{{ .Title }}</h1>{{ if eq .Params.locale "en" }}<p class="hero-name">Associate Professor, Institute of Science Tokyo</p>{{ else }}<p class="hero-name" lang="en">Masahito Ohue</p><p class="hero-affiliation">東京科学大学 情報理工学院 情報工学系 准教授</p>{{ end }}</div>{{ with .Params.portrait }}<img class="portrait" src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="大上雅史" width="180" height="180">{{ end }}</section>
+{{ range index hugo.Data.legacy_anchors .File.Path }}<a id="{{ . }}"></a>{{ end }}
+<section class="hero"><div><p class="eyebrow">BIOINFORMATICS & DRUG DISCOVERY</p><h1>{{ index $person.name $lang }}</h1>{{ if eq $lang "ja" }}<p class="hero-name" lang="en">{{ $person.name.en }}</p>{{ end }}<p class="hero-affiliation">{{ if eq $lang "en" }}{{ $person.role.en }}<br>{{ $person.affiliation.en }}{{ else }}{{ $person.affiliation.ja }} {{ $person.role.ja }}{{ end }}</p></div><img class="portrait" src="{{ (strings.TrimPrefix "/" $person.portrait) | relURL }}" alt="{{ index $person.name $lang }}" width="150" height="200"></section>
 {{ else }}<div class="page-heading"><p class="eyebrow">MASAHITO OHUE</p><h1>{{ .Title }}</h1></div>{{ end }}
-{{ if and .Params.toc (gt (len .TableOfContents) 80) }}<details class="toc" open><summary>{{ if eq .Params.locale "en" }}On this page{{ else }}このページの目次{{ end }}</summary>{{ .TableOfContents }}</details>{{ end }}
-<article class="prose">{{ .Content }}</article>
+{{ if and .Params.toc (gt (len $toc) 80) }}<details class="toc" open><summary>{{ if eq $lang "en" }}On this page{{ else }}このページの目次{{ end }}</summary>{{ $toc | safeHTML }}</details>{{ end }}
+<article class="prose">{{ .Content }}{{ $sharedBody | safeHTML }}</article>
 {{ if .IsSection }}{{ if and (not .Params.home) (eq .WordCount 0) }}<ul>{{ range .Pages }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>{{ end }}{{ end }}

@@ -1,0 +1,4 @@
+{{ $lang := .Page.Params.locale | default "ja" }}
+<h2 id="news">{{ if eq $lang "ja" }}ニュース{{ else }}News{{ end }}</h2>
+<ul class="news-list">{{ range hugo.Data.news }}<li><time datetime="{{ .date }}">{{ .date }}</time><div>{{ index . $lang }}{{ with .url }} <a href="{{ . }}">{{ if eq $lang "ja" }}詳細{{ else }}Read more{{ end }} ↗</a>{{ end }}</div></li>{{ end }}</ul>
+<p>{{ if eq $lang "ja" }}<a href="{{ "news-recent/" | relURL }}">各ニュースの関連リンク</a> · <a href="{{ "news/" | relURL }}">過去のニュース</a>{{ else }}<a href="{{ "news-recent/" | relURL }}" lang="ja">Related links (Japanese)</a> · <a href="{{ "en/news/" | relURL }}">News archive</a>{{ end }}</p>

@@ -1,0 +1,61 @@
+{
+  "name": {
+    "ja": "大上 雅史",
+    "en": "Masahito Ohue"
+  },
+  "role": {
+    "ja": "准教授",
+    "en": "Associate Professor"
+  },
+  "affiliation": {
+    "ja": "東京科学大学 情報理工学院 情報工学系",
+    "en": "Department of Computer Science, School of Computing, Institute of Science Tokyo"
+  },
+  "appointments": [
+    {
+      "ja": "東京科学大学 新産業創成研究院 AI-Science Nexusセンター 生命・医科学AI部門（兼担）",
+      "en": "AI for Life and Medical Sciences Division, AI-Science Nexus Center (AISNeC), Institute of New Industry Incubation, Institute of Science Tokyo (concurrent appointment)",
+      "url": "https://www.aisnec.nii.isct.ac.jp/"
+    },
+    {
+      "ja": "東京科学大学 Total Health Design Visionary Initiative Sub-PD",
+      "en": "Sub-PD, Total Health Design Visionary Initiative, Institute of Science Tokyo",
+      "url": "https://www.isct.ac.jp/ja/001/about/organizations/total-health-design"
+    }
+  ],
+  "email": "ohue@comp.isct.ac.jp",
+  "email_display": "ohue (at) comp.isct.ac.jp",
+  "address": {
+    "ja": "〒226-8501 神奈川県横浜市緑区長津田町4259 G3-56",
+    "en": "4259 G3-56 Nagatsutacho, Midori-ku, Yokohama, Kanagawa 226-8501, Japan"
+  },
+  "campus": {
+    "ja": "東京科学大学 横浜キャンパス G3棟",
+    "en": "Building G3, Yokohama Campus, Institute of Science Tokyo"
+  },
+  "phone": {
+    "ja": "045-924-5522",
+    "en": "+81-45-924-5522"
+  },
+  "fax": {
+    "ja": "045-924-5523",
+    "en": "+81-45-924-5523"
+  },
+  "lab": {
+    "ja": "https://www.li.comp.isct.ac.jp/",
+    "en": "https://www.li.comp.isct.ac.jp/en/"
+  },
+  "cv": {
+    "url": "https://www.dropbox.com/scl/fi/l8a852zx56twadqhy8dxq/CurriculumVitae20240226.pdf?rlkey=uipgb8bu4aoj4gujhxcqsa7ti&dl=1",
+    "date": "2024-02-26"
+  },
+  "portrait": "/assets/1c679a26f6a1.jpg",
+  "bio": {
+    "ja": "1987年生まれ、石川県出身。博士（工学）。",
+    "en": "Born in 1987 in Ishikawa, Japan. Ph.D. in Engineering."
+  },
+  "mission": {
+    "ja": "生命科学・化学・創薬の諸問題を情報科学で解決し、ライフイノベーションを加速する。",
+    "en": "Advancing life science, chemistry, and drug discovery through information science to accelerate innovation."
+  }
+}

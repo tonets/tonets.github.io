@@ -1,4 +1,5 @@
 ---
+counterpart: "/en/awards/"
 title: "受賞"
 source_title: "受賞"
 source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%BC%F5%BE%DE"

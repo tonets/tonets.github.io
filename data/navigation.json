@@ -1,0 +1,56 @@
+[
+  {
+    "ja_path": "",
+    "en_path": "en/",
+    "ja": "トップ",
+    "en": "Home"
+  },
+  {
+    "ja_path": "profile/",
+    "en_path": "en/profile/",
+    "ja": "プロフィール",
+    "en": "Profile"
+  },
+  {
+    "ja_path": "research/",
+    "en_path": "en/research/",
+    "ja": "研究内容",
+    "en": "Research"
+  },
+  {
+    "ja_path": "publications/",
+    "en_path": "en/publications/",
+    "ja": "研究成果",
+    "en": "Publications"
+  },
+  {
+    "ja_path": "awards/",
+    "en_path": "en/awards/",
+    "ja": "受賞",
+    "en": "Awards"
+  },
+  {
+    "ja_path": "news/",
+    "en_path": "en/news/",
+    "ja": "過去のニュース",
+    "en": "News archive"
+  },
+  {
+    "ja_path": "notes/",
+    "en_path": "notes/",
+    "ja": "研究メモ",
+    "en": "Research notes (Japanese)"
+  },
+  {
+    "ja_path": "other/",
+    "en_path": "other/",
+    "ja": "その他",
+    "en": "Other pages (Japanese)"
+  },
+  {
+    "ja_path": "join/",
+    "en_path": "en/join/",
+    "ja": "所属希望の方へ",
+    "en": "Join the laboratory"
+  }
+]

@@ -1,0 +1,7 @@
+{{ $lang := .Page.Params.locale | default "ja" }}{{ $person := hugo.Data.person }}
+<p>{{ index $person.bio $lang }}</p>
+<p><a href="{{ $person.cv.url }}">Curriculum Vitae</a> <span class="muted">({{ if eq $lang "ja" }}更新日{{ else }}updated{{ end }}: {{ $person.cv.date }})</span></p>
+<h2 id="affiliations">{{ if eq $lang "ja" }}所属{{ else }}Affiliations{{ end }}</h2>
+{{ partial "affiliations.html" .Page }}
+<h2 id="laboratory">{{ if eq $lang "ja" }}大上研究室{{ else }}Ohue Laboratory{{ end }}</h2>
+<p>{{ index $person.mission $lang }}</p><p><a href="{{ index $person.lab $lang }}">{{ if eq $lang "ja" }}研究室ウェブサイト{{ else }}Laboratory website{{ end }} ↗</a></p>
