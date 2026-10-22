@@ -34,179 +34,179 @@ home: false
 ### 査読付き学術論文誌 <a id="t93bc7d8s"></a>
 
 - Sho Masunaga, Kairi Furui, Apakorn Kengkanna, **Masahito Ohue**: GraphBioisostere: general bioisostere prediction model with deep graph neural network, *The Journal of Supercomputing*, 82: 132, 2026. doi: 10.1007/s11227-026-08232-y   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-026-08232-y) ]
 
 - **Masahito Ohue**, Kairi Furui: PBPredictor.net: GBDT-based model and web tool for prediction of blood–placental barrier permeability of small molecules, *The Journal of Supercomputing*, 82: 93, 2026. doi: 10.1007/s11227-026-08233-x   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-026-08233-x) ]
 
 - Kairi Furui, **Masahito Ohue**: ALLM-Ab: Active learning-driven antibody optimization using fine-tuned protein language models, *Journal of Chemical Information and Modeling*, 65(21): 11543-11557, 2025. doi: 10.1021/acs.jcim.5c01577   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acs.jcim.5c01577) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41124613/) | [bioRxiv](https://doi.org/10.1101/2025.08.05.668775) | [GitHub](https://github.com/ohuelab/ALLM-Ab) ]
 
 - Apakorn Kengkanna, Yuta Kikuchi, Takashi Niwa, **Masahito Ohue**: Reaction-conditioned generative model for catalyst design and optimization with CatDRX, *Communications Chemistry*, 8: 314, 2025. doi: 10.1038/s42004-025-01732-7   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1038/s42004-025-01732-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41131101/) | [GitHub](https://github.com/ohuelab/CatDRX) | [プレスリリース](https://www.isct.ac.jp/ja/news/2kqhemk112ww) ]
 
 - Kairi Furui, Koh Sakano, **Masahito Ohue**: Predictive and therapeutic applications of protein language models, *Allergology International*, 74(4): 534-548, 2025. doi: 10.1016/j.alit.2025.08.004   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1016/j.alit.2025.08.004) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40967982/) ]
 
 - Kodai Igarashi, **Masahito Ohue**: Protein–ligand affinity prediction via Jensen–Shannon divergence of molecular dynamics simulation trajectories, *Biophysics and Physicobiology*, 22(3): e220015, 2025. doi: 10.2142/biophysico.bppb-v22.0015   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.2142/biophysico.bppb-v22.0015) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40901491/) | [bioRxiv](https://doi.org/10.1101/2025.02.17.638772) ]
 
 - Keisuke Uchikawa, Kairi Furui, **Masahito Ohue**: Leveraging AlphaFold2 structural space exploration for generating drug target structures in structure-based virtual screening, *Biochemistry and Biophysics Reports*, 43: 102110, 2025. doi: 10.1016/j.bbrep.2025.102110   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1016/j.bbrep.2025.102110) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40688505/) | [bioRxiv](https://doi.org/10.1101/2025.02.17.638740) ]
 
 - Yuki Yasumitsu, **Masahito Ohue**: Generation of appropriate protein structures for virtual screening using AlphaFold3 predicted protein–ligand complexes, *Computational and Structural Biotechnology Reports*, 2: 100057, 2025. doi: 10.1016/j.csbr.2025.100057   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1016/j.csbr.2025.100057) | [bioRxiv](https://doi.org/10.1101/2025.02.17.638750) ]
 
 - Kairi Furui, **Masahito Ohue**: Benchmarking HelixFold3-Predicted Holo Structures for Relative Free Energy Perturbation Calculations, *ACS Omega*, 10(11): 11411-11420, 2025. doi: 10.1021/acsomega.4c11413   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acsomega.4c11413) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40160764/) | [bioRxiv](https://doi.org/10.1101/2024.10.27.620454) ]
 
 - Wenxing Hu, **Masahito Ohue**: SpatialPPIv2: Enhancing protein–protein interaction prediction through graph neural networks with protein language models, *Computational and Structural Biotechnology Journal*, 27: 508-518, 2025. doi: 10.1016/j.csbj.2025.01.022   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1016/j.csbj.2025.01.022) | [GitHub](https://github.com/ohuelab/SpatialPPIv2) ]
 
 - Kairi Furui, Takafumi Shimizu, Yutaka Akiyama, Suguru Roy Kimura, Yoh Terada, **Masahito Ohue**: PairMap: An Intermediate Insertion Approach for Improving the Accuracy of Relative Free Energy Perturbation Calculations for Distant Compound Transformations, *Journal of Chemical Information and Modeling*, 65(2): 705-721, 2025. doi: 10.1021/acs.jcim.4c01634   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acs.jcim.4c01634) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39800967/) | [GitHub](https://github.com/ohuelab/PairMap) | [プレスリリース](https://www.isct.ac.jp/ja/news/5y23r6loriqp) ]
 
 - **Masahito Ohue**, Nobuaki Yasuo, Masami Takata: Innovations in Mathematical Modeling, AI, and Optimization Techniques, *The Journal of Supercomputing*, 81: 340, 2025. doi: 10.1007/s11227-024-06861-9   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-024-06861-9) ]
 
 - Koh Sakano, Kairi Furui, **Masahito Ohue**: NPGPT: natural product-like compound generation with GPT-based chemical language models, *The Journal of Supercomputing*, 81: 352, 2025. doi: 10.1007/s11227-024-06860-w   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-024-06860-w) | [arXiv](https://doi.org/10.48550/arXiv.2411.12886) | [GitHub](https://github.com/ohuelab/npgpt) ]
 
 - Hamid R. Arabnia, Masami Takata, Leonidas Deligiannidis, Pablo Rivas, **Masahito Ohue**, Nobuaki Yasuo, Ed: Parallel and Distributed Processing Techniques, *Communications in Computer and Information Science*, 2256, 2025. doi: 10.1007/978-3-031-85638-9   
   [ [Book Website](https://doi.org/10.1007/978-3-031-85638-9) ]
 
 - Apakorn Kengkanna, **Masahito Ohue**: Enhancing property and activity prediction and interpretation using multiple molecular graph representations with MMGX, *Communications Chemistry*, 7: 74, 2024. doi: 10.1038/s42004-024-01155-w   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1038/s42004-024-01155-w) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38580841/) | [GitHub](https://github.com/ohuelab/MMGX) ]
 
 - **Masahito Ohue**, Kotoyu Sasayama, Masami Takata: Mathematical Modeling and Problem Solving: From Fundamentals to Applications, *The Journal of Supercomputing*, 80: 14116-14119, 2024. doi: 10.1007/s11227-024-06007-x   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-024-06007-x) ]
 
 - Kairi Furui, **Masahito Ohue**: FastLomap: Faster Lead Optimization Mapper Algorithm for Large-Scale Relative Free Energy Perturbation, *The Journal of Supercomputing*, 80: 14417-14432, 2024. doi: 10.1007/s11227-024-06006-y   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-024-06006-y) | [GitHub](https://github.com/ohuelab/FastLomap) ]
 
 - Takafumi Ueki, **Masahito Ohue**: Antibody Complementarity-Determining Region Design using AlphaFold2 and DDG Predictor, *The Journal of Supercomputing*, 80: 11989-12002, 2024. doi: 10.1007/s11227-023-05887-9   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s11227-023-05887-9) | [GitHub](https://github.com/ohuelab/AfDesign-Antibody) ]
 
 - Wenxing Hu, **Masahito Ohue**: SpatialPPI: three-dimensional space protein-protein interaction prediction with AlphaFold Multimer, *Computational and Structural Biotechnology Journal*, 23: 1214-1225, 2024. doi: 10.1016/j.csbj.2024.03.009   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1016/j.csbj.2024.03.009) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38545599/) | [GitHub](https://github.com/ohuelab/SpatialPPI) ]
 
 - Toshiki Ochiai, Tensei Inukai, Manato Akiyama, Kairi Furui, **Masahito Ohue**, Nobuaki Matsumori, Shinsuke Inuki, Motonari Uesugi, Toshiaki Sunazuka, Kazuya Kikuchi, Hideaki Kakeya, Yasubumi Sakakibara: Variational autoencoder-based chemical latent space for large molecular structures with 3D complexity, *Communications Chemistry*, 6: 249, 2023. doi: 10.1038/s42004-023-01054-6   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1038/s42004-023-01054-6) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37973971/) | [GitHub](https://github.com/toshikiochiai/NPVAE) ]
 
 - **Masahito Ohue**: MEGADOCK-on-Colab: an easy-to-use protein-protein docking tool on Google Colaboratory, *BMC Research Notes*, 16(1): 229, 2023. doi: 10.1186/s13104-023-06505-w   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1186/s13104-023-06505-w) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37737185/) | [GitHub](https://github.com/ohuelab/MEGADOCK-on-Colab) ]
 
 - Takatsugu Kosugi, **Masahito Ohue**: Design of cyclic peptides targeting protein–protein interactions using AlphaFold, *International Journal of Molecular Sciences*, 24(17): 13257, 2023. doi: 10.3390/ijms241713257   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.mdpi.com/1422-0067/24/17/13257) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37686057/) | [GitHub](https://github.com/ohuelab/ColabFold-cycpep-dock) ]
 
 - **Masahito Ohue**, Yuki Kojima, Takatsugu Kosugi: Generating potential protein-protein interaction inhibitor molecules based on physicochemical properties, *Molecules*, 28(15): 5652, 2023. doi: 10.3390/molecules28155652   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.mdpi.com/1420-3049/28/15/5652/htm) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37570623/) | [GitHub](https://github.com/ohuelab/iPPI-REINVENT) ]
 
 - Jessica Andreani, Brain Jiménez-García, **Masahito Ohue**: Web Tools for Modeling and Analysis of Biomolecular Interactions Volume II, *Frontiers in Molecular Biosciences*, 10: 1190855, 2023. doi: 10.3389/fmolb.2023.1190855  
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.frontiersin.org/articles/10.3389/fmolb.2023.1190855/full) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37363399/) ]
 
 - Jianan Li, Keisuke Yanagisawa, Masatake Sugita, Takuya Fujie, **Masahito Ohue**, Yutaka Akiyama: CycPeptMPDB: A Comprehensive Database of Membrane Permeability of Cyclic Peptides, *Journal of Chemical Information and Modeling*, 63(7): 2240-2250, 2023. doi: 10.1021/acs.jcim.2c01573   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acs.jcim.2c01573) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36930969/) | [Database](http://cycpeptmpdb.com/) ]
 
 - Masatake Sugita, Takuya Fujie, Keisuke Yanagisawa, **Masahito Ohue**, Yutaka Akiyama: Lipid composition is critical for accurate membrane permeability prediction of cyclic peptides by molecular dynamics simulations, *Journal of Chemical Information and Modeling*, 62(18): 4549-4560, 2022. doi: 10.1021/acs.jcim.2c00931   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acs.jcim.2c00931) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36053061/) ]
 
 - Keisuke Yanagisawa, Rikuto Kubota, Yasushi Yoshikawa, **Masahito Ohue**, Yutaka Akiyama: Effective Protein-Ligand Docking Strategy via Fragment Reuse and a Proof-of-Concept Implementation, *ACS Omega*, 7(34): 30265-30274, 2022. doi: 10.1021/acsomega.2c03470   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acsomega.2c03470) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36061673/) | [GitHub](https://github.com/akiyamalab/restretto) ]
 - Takatsugu Kosugi, **Masahito Ohue**: Solubility-aware protein binding peptide design using AlphaFold, *Biomedicines*, 10(7): 1626, 2022. doi: 10.3390/biomedicines10071626   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.3390/biomedicines10071626) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35884931/) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.14.491955) | [GitHub](https://github.com/ohuelab/Solubility_AfDesign) ]
 
 - Jessica Andreani, **Masahito Ohue**, Brian Jiménez-García: Web Tools for Modeling and Analysis of Biomolecular Interactions, *Frontiers in Molecular Biosciences, 9:875859*, 2022. doi: 10.3389/fmolb.2022.875859  
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.frontiersin.org/articles/10.3389/fmolb.2022.875859/full) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35480880/) ]
 
 - Jianan Li, Keisuke Yanagisawa, Yasushi Yoshikawa, **Masahito Ohue**, Yutaka Akiyama: Plasma protein binding prediction focusing on residue-level features and circularity of cyclic peptides by deep learning, *Bioinformatics*, 38(4): 1110-1117, 2022. doi: 10.1093/bioinformatics/btab726  
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1093/bioinformatics/btab726) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34849593/) | [GitHub](https://github.com/akiyamalab/CycPeptPPB) ]
 
 - Takatsugu Kosugi, **Masahito Ohue**: Quantitative estimate index for early-stage screening of compounds targeting protein-protein interactions, *International Journal of Molecular Sciences*, 22(20): 10925, 2021. doi: 10.3390/ijms222010925   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.mdpi.com/1422-0067/22/20/10925) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34681589/) | [GitHub](https://github.com/ohuelab/QEPPI) ]
 
 - Kazuki Takabatake, Kazuki Izawa, Motohiro Akikawa, Keisuke Yanagisawa, **Masahito Ohue**, Yutaka Akiyama: Improved large-scale homology search by two-step seed search using multiple reduced amino acid alphabets, *Genes*, 12: 1455, 2021. doi:10.3390/genes12091455   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.3390/genes12091455) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34573438/) | [GitHub](https://github.com/akiyamalab/TSSS) ]
 
 - Masatake Sugita, Satoshi Sugiyama, Takuya Fujie, Yasushi Yoshikawa, Keisuke Yanagisawa, **Masahito Ohue**, Yutaka Akiyama: Large-scale membrane permeability prediction of cyclic peptides crossing a lipid bilayer based on enhanced sampling molecular dynamics simulations.
   *Journal of Chemical Information and Modeling*. 61(7): 3681-3695, 2021. doi:10.1021/acs.jcim.1c00380   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1021/acs.jcim.1c00380) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34236179/) ]
 
 - Kazuki Izawa, Kazuko Okamoto-Shibayama, Daichi Kita, Sachiyo Tomita, Atsushi Saito, Takashi Ishida, **Masahito Ohue**, Yutaka Akiyama, Kazuyuki Ishihara: Taxonomic and gene category analyses of subgingival plaques from a group of Japanese individuals with and without periodontitis. *International Journal of Molecular Sciences*, 22(10): 5298, 2021. doi:10.3390/ijms22105298
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.3390/ijms22105298) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34069916/) ]
 
 - Sho Ito, Akinobu Senoo, Satoru Nagatoishi, **Masahito Ohue**, Masaki Yamamoto, Kouhei Tsumoto, Naoki Wakui: Structural basis for binding mechanism of human serum albumin complexed with cyclic peptide dalbavancin. *Journal of Medicinal Chemistry*, 63(22): 14045–14053, 2020. doi:10.1021/acs.jmedchem.0c01578 (*bioRxiv*, 2020.09.09.287375, 2020. doi:10.1101/2020.09.09.287375)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01578) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33183011/) | [bioRxiv](https://doi.org/10.1101/2020.09.09.287375) ]
 
 - Guillaume Launay†, **Masahito Ohue**†\*, Julia Prieto Santero, Yuri Matsuzaki, Cécile Hilpert, Nobuyuki Uchikoga, Takanori Hayashi, Juliette Martin\*: Evaluation of CONSRANK-like scoring functions for rescoring ensembles of protein-protein docking poses. *Frontiers in Molecular Biosciences*, 7:559005, 2020. doi:10.3389/fmolb.2020.559005 (*bioRxiv*, 2020.04.24.059469, 2020. doi:10.1101/2020.04.24.059469)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://www.frontiersin.org/articles/10.3389/fmolb.2020.559005/) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33195406/) | [bioRxiv](https://doi.org/10.1101/2020.04.24.059469) ]
 
 - Kento Aoyama, Masanori Kakuta, Yuri Matsuzaki, Takashi Ishida, **Masahito Ohue**, Yutaka Akiyama: Development of computational pipeline software for genome/exome analysis on the K computer, *Supercomputing Frontiers and Innovations*, 7(1):37-54, 2020. doi:10.14529/jsfi200102
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](http://doi.org/10.14529/jsfi200102) ]
 
 - Shumpei Matsuno, **Masahito Ohue**, Yutaka Akiyama: Multidomain protein structure prediction using information about residues interacting on multimeric protein interfaces, *Biophysics and Physicobiology*, 17: 2-13, 2020. doi:10.2142/biophysico.BSJ-2019050
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32509489/) | [Journal Website](https://doi.org/10.2142/biophysico.BSJ-2019050) ]
 
 - Shuntaro Chiba, **Masahito Ohue**, Anastasiia Gryniukova, Petro Borysko, Sergey Zozulya, Nobuaki Yasuo, Ryunosuke Yoshino, Kazuyoshi Ikeda, Woong-Hee Shin, Daisuke Kihara, Mitsuo Iwadate, Hideaki Umeyama, Takaaki Ichikawa, Reiji Teramoto, Kun-Yi Hsin, Vipul Gupta, Hiroaki Kitano, Mika Sakamoto, Akiko Higuchi, Nobuaki Miura, Kei Yura, Masahiro Mochizuki, Chandrasekaran Ramakrishnan, A. Mary Thangakani, D. Velmurugan, M. Michael Gromiha, Itsuo Nakane, Nanako Uchida, Hayase Hakariya, Modong Tan, Hironori Nakamura, Shogo D. Suzuki, Tomoki Ito, Masahiro Kawatani, Kentaroh Kudoh, Sakurako Takashina, Kazuki Yamamoto, Yoshitaka Moriwaki, Keita Oda, Daisuke Kobayashi, Tatsuya Okuno, Shintaro Minami, George Chikenji, Philip Prathipati, Chioko Nagao, Attayeb Mohsen, Mari Ito, Kenji Mizuguchi, Teruki Honma, Takashi Ishida, Takatsugu Hirokawa, Yutaka Akiyama, Masakazu Sekijima: A prospective compound screening contest identified broader inhibitors for Sirtuin 1, *Scientific Reports*, 9: 19585, 2019. doi:10.1038/s41598-019-55069-y
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31863054) | [Journal Website](https://doi.org/10.1038/s41598-019-55069-y) ]
 
 - **Masahito Ohue**, Shogo D. Suzuki, Yutaka Akiyama: Learning-to-rank technique based on ignoring meaningless ranking orders between compounds, *Journal of Molecular Graphics and Modelling*, 92:192-200, 2019. doi: 10.1016/j.jmgm.2019.07.009
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31377536) | [Journal Website](https://doi.org/10.1016/j.jmgm.2019.07.009) | [github](https://github.com/akiyamalab/SPDRank) ]
 
 - Tomohiro Ban, **Masahito Ohue**, Yutaka Akiyama: NRLMFβ: Beta-distribution-rescored Neighborhood Regularized Logistic Matrix Factorization for Improving Performance of Drug–Target Interaction Prediction, *Biochemistry and Biophysics Reports*, 18:100615, 2019. doi: 10.1016/j.bbrep.2019.01.008
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30793050) | [Journal Website](https://doi.org/10.1016/j.bbrep.2019.01.008) ]
 
 - Masahiro Mochizuki, Shogo D. Suzuki, Keisuke Yanagisawa, **Masahito Ohue**, Yutaka Akiyama: QEX: Target-specific druglikeness filter enhances ligand-based virtual screening, *Molecular Diversity*, 23(1): 11–18, 2019. doi: 10.1007/s11030-018-9842-3
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29971617) | [Journal Website](https://doi.org/10.1007/s11030-018-9842-3) ]
 
 - Koki Yamamoto, Yasushi Yoshikawa, **Masahito Ohue**, Shinsuke Inuki, Hiroaki Ohno, Shinya Oishi: Synthesis of Triazolo- and Oxadiazolo-piperazines by Gold(I)-Catalyzed Domino Cyclization: Application to the Design of a MAP Kinase Inhibitor, *Organic Letters*, 21(2): 373-377, 2019. doi: 10.1021/acs.orglett.8b03500
@@ -215,42 +215,42 @@ home: false
 
 - Takashi Tajimi, Naoki Wakui, Keisuke Yanagisawa, Yasushi Yoshikawa, **Masahito Ohue**, Yutaka Akiyama: Computational prediction of plasma protein binding of cyclic peptides from small molecule experimental data using sparse modeling techniques, *BMC Bioinformatics*, 19(Suppl 19): 527, 2018. doi: 10.1186/s12859-018-2529-z
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30598072) | [Journal Website](https://doi.org/10.1186/s12859-018-2529-z) ]
 
 - Daisuke Kami, Tomoya Kitani, Akihiro Nakamura, Naoki Wakui, Rena Mizutani, **Masahito Ohue**, Fuyuki Kametani, Nobuyoshi Akimitsu, Satoshi Gojo: The DEAD-box RNA-binding protein DDX6 regulates parental RNA decay for cellular reprogramming to pluripotency, *PLoS ONE*, 13(10): e0203708, 2018. doi: 10.1371/journal.pone.0203708
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30273347) | [Journal Website](https://doi.org/10.1371/journal.pone.0203708) ]
 
 - Keisuke Yanagisawa, Shunta Komine, Rikuto Kubota, **Masahito Ohue**, Yutaka Akiyama: Optimization of memory use of fragment extension-based protein-ligand docking with an original fast minimum cost flow algorithm, *Computational Biology and Chemistry*, **74**: 399-406, 2018. doi: 10.1016/j.compbiolchem.2018.03.013 (In Proc. APBC2018)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29628156) | [Journal Website](https://doi.org/10.1016/j.compbiolchem.2018.03.013) | [slide](https://www.dropbox.com/s/c3bktwvfzh6qkpl/APBC2018_yanagisawa.pdf?dl=1) ]
 
 - Takanori Hayashi, Yuri Matsuzaki, Keisuke Yanagisawa, **Masahito Ohue**\*, Yutaka Akiyama\*: MEGADOCK-Web: an integrated database of high-throughput structure-based protein-protein interaction predictions, *BMC Bioinformatics*, **19**(Suppl 4): 62, 2018. doi: 10.1186/s12859-018-2073-x (In Proc. APBC2018)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29745830) | [Journal Website](https://doi.org/10.1186/s12859-018-2073-x) | [slide](https://www.dropbox.com/s/r4dzfi3s78j3t6g/MEGADOCK-Web-slide.pdf?dl=1) ]
 
 - Tomohiro Ban, **Masahito Ohue**, Yutaka Akiyama: Multiple grid arrangement improves ligand docking with unknown binding sites: Application to the inverse docking problem, *Computational Biology and Chemistry*, **73**: 139-146, 2018. doi: 10.1016/j.compbiolchem.2018.02.008
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29482137) | [Journal Website](https://doi.org/10.1016/j.compbiolchem.2018.02.008) ]
 
 - Shogo D. Suzuki, **Masahito Ohue**, Yutaka Akiyama: PKRank: A novel learning-to-rank method for ligand-based virtual screening using pairwise kernel and RankSVM, *Artificial Life and Robotics*, **23**(2): 205-212, 2018. doi: 10.1007/s10015-017-0416-8
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://doi.org/10.1007/s10015-017-0416-8) ]
 
 - Naoki Wakui, Ryunosuke Yoshino, Nobuaki Yasuo, **Masahito Ohue**, Masakazu Sekijima: Exploring the selectivity of inhibitor complexes with Bcl-2 and Bcl-XL: a molecular dynamics simulation approach, *Journal of Molecular Graphics and Modelling*, **79**: 166-174, 2018. doi: 10.1016/j.jmgm.2017.11.011
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29197725) | [Journal Website](https://doi.org/10.1016/j.jmgm.2017.11.011) ]
 
 - Keisuke Yanagisawa, Shunta Komine, Shogo D. Suzuki, **Masahito Ohue**, Takashi Ishida, Yutaka Akiyama: Spresso: An ultrafast compound pre-screening method based on compound decomposition, *Bioinformatics*, **33**(23): 3836-3843, 2017. doi: 10.1093/bioinformatics/btx178
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28369284) | [Journal Website](https://doi.org/10.1093/bioinformatics/btx178) ]
 
 - Yuri Matsuzaki, Nobuyuki Uchikoga, **Masahito Ohue**, Yutaka Akiyama: Rigid-docking approaches to explore protein-protein interaction space, *Advances in Biochemical Engineering/Biotechnology (Network Biology)*, **160**: 33-55, 2017. doi: 10.1007/10_2016_41
@@ -263,49 +263,49 @@ home: false
 
 - Nobuyuki Uchikoga, Yuri Matsuzaki, **Masahito Ohue**, Yutaka Akiyama: Specificity of broad protein interaction surfaces for proteins with multiple binding partners, *Biophysics and Physicobiology*, **13**: 105-115, 2016. doi: 10.2142/biophysico.13.0_105
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27924264) | [Journal Website](https://www.jstage.jst.go.jp/article/biophysico/13/0/13_105/_article) ]
 
 - Takehiro Shimoda, Shuji Suzuki, **Masahito Ohue**, Takashi Ishida, Yutaka Akiyama:
   Protein-Protein Docking on Hardware Accelerators: Comparison of GPU and MIC Architectures,
   *BMC Systems Biology*, **9**(Suppl 1): S6, 2015. doi: 10.1186/1752-0509-9-S1-S6 (In Proc. APBC2015)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25707855) | [Journal Website](http://www.biomedcentral.com/1752-0509/9/S1/S6) | [slide](/) ]
 
 - **Masahito Ohue**†, Takehiro Shimoda†, Shuji Suzuki, Yuri Matsuzaki, Takashi Ishida, Yutaka Akiyama: MEGADOCK 4.0: an ultra-high-performance protein-protein docking software for heterogeneous supercomputers, *Bioinformatics*, **30**(22): 3281-3283, 2014. doi: 10.1093/bioinformatics/btu532
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25100686) | [Journal Website](http://dx.doi.org/10.1093/bioinformatics/btu532) ]
 
 - **Masahito Ohue**†, Yuri Matsuzaki†, Nobuyuki Uchikoga, Takashi Ishida, Yutaka Akiyama: MEGADOCK: An all-to-all protein-protein interaction prediction system using tertiary structure data, *Protein and Peptide Letters*, **21**(8): 766-778, 2014. doi: 10.2174/09298665113209990050
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23855673) | [Journal Website](http://eurekaselect.com/112757) ]
 
 - Yuri Matsuzaki†, **Masahito Ohue**†, Nobuyuki Uchikoga, Yutaka Akiyama: Protein-protein interaction network prediction by using rigid-body docking tools: application to bacterial chemotaxis, *Protein and Peptide Letters*, **21**(8): 790-798, 2014. doi: 10.2174/09298665113209990066
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23855669) | [Journal Website](http://eurekaselect.com/112775) ]
 
 - **Masahito Ohue**, Yuri Matsuzaki, Takehiro Shimoda, Takashi Ishida, Yutaka Akiyama: Highly Precise Protein-Protein Interaction Prediction Based on Consensus Between Template-Based and *de Novo* Docking Methods, *BMC Proceedings*, **7**(Suppl 7): S6, 2013. doi: 10.1186/1753-6561-7-S7-S6
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24564962) | [Journal Website](http://www.biomedcentral.com/1753-6561/7/S7/S6) ]
 
 - Yuri Matsuzaki, Nobuyuki Uchikoga, **Masahito Ohue**, Takehiro Shimoda, Toshiyuki Sato, Takashi Ishida, Yutaka Akiyama: MEGADOCK 3.0: A high-performance protein-protein interaction prediction software using hybrid parallel computing for petascale supercomputing environments, *Source Code for Biology and Medicine*, **8**(1): 18, 2013. doi: 10.1186/1751-0473-8-18
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24004986) | [Journal Website](http://www.scfbm.org/content/8/1/18/) ]
 
 - 中嶋悠介, **大上雅史**, 越野亮: 配列情報に基づくタンパク質間相互作用予測の構造情報付加による高精度化, *FIT2013 第12回情報科学技術フォーラム講演論文集*, 第2分冊(RG-001): 63-68, 2013.
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Download](/) ] \* 本論文は一般社団法人 電子情報通信学会および一般社団法人 情報処理学会の著作権規程に基いて公開しているものです．
 
 - Nobuyuki Uchikoga, Yuri Matsuzaki, **Masahito Ohue**, Takatsugu Hirokawa, Yutaka Akiyama: Re-docking scheme for generating near-native protein complexes by assembling residue interaction fingerprints, *PLoS ONE*, **8**(7): e69365, 2013. doi: 10.1371/journal.pone.0069365
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23874954) | [Journal Website](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0069365) ]
 
 - Sarel J. Fleishman, Timothy A. Whitehead, Eva-Maria Strauch, Jacob E. Corn, Sanbo Qin, Huan-Xiang Zhou, Julie C. Mitchell,
@@ -330,12 +330,12 @@ home: false
 - **Masahito Ohue**, Yuri Matsuzaki, Yutaka Akiyama: Docking-calculation-based Method for Predicting Protein-RNA Interactions,
   *Genome Informatics*, **25**(1): 25-39, 2011. doi: 10.11234/gi.25.25
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/22230937) | [Journal Website](https://www.jstage.jst.go.jp/article/gi/25/1/25_1_25/_article) ]
 
 - **大上雅史**, 松崎由理, 松��裕介, 佐藤智之, 秋山泰: MEGADOCK：立体構造情報からの網羅的タンパク質間相互作用予測とそのシステム生物学への応用, *情報処理学会論文誌 数理モデル化と応用*, **3**(3): 91-106, 2010.
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Journal Website](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=70731&item_no=1&page_id=13&block_id=8) ]
 
 　 († equal contribution)
@@ -345,7 +345,7 @@ home: false
 ### 査読付き国際会議（フルペーパー，口頭発表） <a id="bf719595"></a>
 
 - Kairi Furui, **Masahito Ohue**: Boltzina: Efficient and Accurate Virtual Screening via Docking-Guided Binding Prediction with Boltz-2, In Proceedings of *AI4Mat Workshop on NeurIPS 2025*, 2025.   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Proceedings Website](https://openreview.net/forum?id=OwtEQsd2hN) | [arXiv](https://doi.org/10.48550/arXiv.2508.17555) | [GitHub](https://github.com/ohuelab/boltzina) ]
 
 - Sho Masunaga, Kairi Furui, Apakorn Kengkanna, **Masahito Ohue**: GraphBioisostere: General Bioisostere Prediction Model with Deep Graph Neural Network, In *PDPTA’25*. (accepted)   
@@ -355,30 +355,30 @@ home: false
   [ [[Proceedings Website>]] ]
 
 - Tsutaoka T, Kato N, Nishino T, Li Y, **Masahito Ohue**: Predicting Antibody Stability pH Values from Amino Acid Sequences: Leveraging Protein Language Models for Formulation Optimization, In Proceedings of *IEEE BIBM 2024*, 240-243, 2024. doi: 10.1109/BIBM62325.2024.10822009   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Proceedings Website](https://ieeexplore.ieee.org/document/10822009) ]
 
 - Nishino T, Kato N, Tsutaoka T, Li Y, **Masahito Ohue**: REALM: Region-Empowered Antibody Language Model for Antibody Property Prediction, In Proceedings of *IEEE BIBM 2024*, 7104-7106, 2024. doi: 10.1109/BIBM62325.2024.10822666   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Proceedings Website](https://ieeexplore.ieee.org/document/10822666) ]
 
 - Furui K, **Masahito Ohue**: Active learning for energy-based antibody optimization and enhanced screening, In Proceedings of *MLSB 2024 (NeurIPS 2024)*, 2024. doi: 10.48550/arXiv.2409.10964   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Proceedings Website](https://www.mlsb.io/papers_2024/Active_Learning_for_Energy-Based_Antibody_Optimization_and_Enhanced_Screening.pdf) | [arXiv](https://arxiv.org/abs/2409.10964) ]
 
 - Taisuke Boku, Masatake Sugita, Ryohei Kobayashi, Shinnosuke Furuya, Takuya Fujie, **Masahito Ohue**, Yutaka Akiyama: Improving Performance on Replica-Exchange Molecular Dynamics Simulations by Optimizing GPU Core Utilization, In *Proceedings of the 53rd International Conference on Parallel Processing (ICPP2024)*, 1082-1091, 2024. doi: 10.1145/3673038.3673097   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [ACM Digital Library](https://doi.org/10.1145/3673038.3673097) ]
 
 - Koh Sakano, Kairi Furui, **Masahito Ohue**: Natural Product-like Compound Generation with Chemical Language Models, In *Parallel and Distributed Processing Techniques*, CCIS 2256: 153-166, 2025. doi: 10.1007/978-3-031-85638-9_12   
   [ [Proceedings Website](https://doi.org/10.1007/978-3-031-85638-9_12) ]
 
 - Kusuri Murakumo, Naruki Yoshikawa, Kentaro Rikimaru, Shogo Nakamura, Kairi Furui, Takamasa Suzuki, Hiroyuki Yamasaki, Yuki Nishigaya, Yuzo Takagi, **Masahito Ohue**: LLM Drug Discovery Challenge: A Contest as a Feasibility Study on the Utilization of Large Language Models in Medicinal Chemistry, In *Proceedings of AI for Accelerated Materials Design (AI4Mat) NeurIPS 2023 Workshop*, 8 pages, 2023.   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [OpenReview.net](https://openreview.net/forum?id=kjUylvko18) ]
 
 - Apakorn Kengkanna, **Masahito Ohue**: Enhancing Model Learning and Interpretation Using Multiple Molecular Graph Representations for Compound Property and Activity Prediction, In *Proceedings of The 20th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2023)*, 8 pages, 2023. doi: 10.1109/CIBCB56990.2023.10264879   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [IEEE Xplore](https://doi.org/10.1109/CIBCB56990.2023.10264879) | [arXiv](https://arxiv.org/abs/2304.06253) | [Download](https://www.li.c.titech.ac.jp/paper/Kengkanna-CIBCB2023.pdf)\*](<https://www.li.c.titech.ac.jp/paper/Kengkanna-CIBCB2023.pdf>]]\*) | [Presentation Video](https://youtu.be/M9V6q70njT4) ] \* © 2023 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - Takafumi Ueki, **Masahito Ohue**: Antibody Complementarity-Determining Region Sequence Design using AlphaFold2 and Binding Affinity Prediction Model, In *Proceedings of The 29th International Conference on Parallel & Distributed Processing Techniques and Applications (PDPTA’23)*, 2133-2139, 2023. doi: 10.1109/CSCE60160.2023.00350   
@@ -388,44 +388,44 @@ home: false
   [ [IEEE Xplore](https://ieeexplore.ieee.org/document/10487267) | [arXiv](https://arxiv.org/abs/2304.04713) ]
 
 - Kairi Furui, **Masahito Ohue**: Compound virtual screening by learning-to-rank with gradient boosting decision tree and enrichment-based cumulative gain. In *Proceedings of The 19th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2022)*, 7 pages, 2022.   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [IEEE Xplore](https://doi.org/10.1109/CIBCB55180.2022.9863032) | [arXiv](https://arxiv.org/abs/2205.02169) | [Download](https://www.li.c.titech.ac.jp/paper/Furui-CIBCB2022.pdf)\* | [Presentation Video](https://www.youtube.com/watch?v=1YOKpftT6N8) ] \* © 2022 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - Shunya Sugita, **Masahito Ohue**: Drug-target affinity prediction using applicability domain based on data density. In *Proceedings of The 18th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2021)*, 6 pages, 2021. doi:10.1109/CIBCB49929.2021.9562808
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [IEEE Xplore](https://doi.org/10.1109/CIBCB49929.2021.9562808) | [ChemRxiv](https://doi.org/10.26434/chemrxiv.14498688.v1) | [Download](https://www.li.c.titech.ac.jp/paper/Sugita-CIBCB2021.pdf)\* | [Presentation Video](https://www.youtube.com/watch?v=RVpCAdlyL-M) ] \* © 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - Takatsugu Kosugi, **Masahito Ohue**: Quantitative estimate of protein-protein interaction targeting drug-likeness. In *Proceedings of The 18th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2021)*, 8 pages, 2021. doi:10.1109/CIBCB49929.2021.9562931
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [IEEE Xplore](https://doi.org/10.1109/CIBCB49929.2021.9562931) | [ChemRxiv](https://doi.org/10.26434/chemrxiv.14489769.v1) | [Download](https://www.li.c.titech.ac.jp/paper/Kosugi-CIBCB2021.pdf)\* | [Presentation Video](https://www.youtube.com/watch?v=NW8CMH15CJo) ] \* © 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - **Masahito Ohue**, Kento Aoyama, Yutaka Akiyama: High-performance cloud computing for exhaustive protein-protein docking, In *Proceedings of The 26th International Conference on Parallel & Distributed Processing (PDPTA’20), Advances in Parallel & Distributed Processing and Applications*, *Advances in Parallel & Distributed Processing and Applications*, 737-746, 2021. doi:10.1007/978-3-030-69984-0_53
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Springer](https://doi.org/10.1007/978-3-030-69984-0_53) | [arXiv](https://arxiv.org/abs/2006.08905) ]
 
 - Kazuki Takabatake, Kazuki Izawa, Motohiro Akikawa, Keisuke Yanagisawa, **Masahito Ohue**, Yutaka Akiyama. Improved Homology Search for Metagenomic Analysis by Two-Step Seed Search with Reduced Amino Acid Alphabets, *The 10th International Conference on Bioinformatics and Biomedical Science (ICBBS2021)*, 2021/10/29-31.
 
 - **Masahito Ohue**, Yutaka Akiyama: MEGADOCK-GUI: a GUI-based complete cross-docking tool for exploring protein-protein interactions, In *Proceedings of The 27th International Conference on Parallel & Distributed Processing (PDPTA’21), Advances in Parallel & Distributed Processing and Applications*. (accepted)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ Springer | [arXiv](https://arxiv.org/abs/2105.03617) ]
 
 - **Masahito Ohue**, Hiroki Watanabe, Yutaka Akiyama: MEGADOCK-Web-Mito: human mitochondrial protein-protein interaction prediction database, In *Proceedings of The 27th International Conference on Parallel & Distributed Processing (PDPTA’21), Advances in Parallel & Distributed Processing and Applications*. (accepted)
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ Springer | [arXiv](https://arxiv.org/abs/2105.00445) ]
 
 - **Masahito Ohue**: Re-ranking of computational protein–peptide docking solutions with amino acid profiles of rigid-body docking results, In *Proceedings of The 21st International Conference on Bioinformatics & Computational Biology (BIOCOMP'20), Advances in Computer Vision and Computational Biology*, 749-758, 2021. doi:10.1007/978-3-030-71051-4_58
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Springer](https://doi.org/10.1007/978-3-030-71051-4_58) | [bioRxiv](https://doi.org/10.1101/2020.05.12.092007) ]
 
 - Kento Aoyama, Hiroki Watanabe, **Masahito Ohue**, Yutaka Akiyama: Multiple HPC environments-aware container image configuration workflow for large-scale all-to-all protein-protein docking calculations, In  *Proceedings of the 6th Asian Conference on Supercomputing Frontiers (SCFA2020), Lecture Notes in Computer Science*, **12082**, 23-39, 2020. doi:10.1007/978-3-030-48842-0_2
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Springer](https://doi.org/10.1007/978-3-030-48842-0_2) ]
 
 - Keren Jiang, Di Zhang, Tsubasa Iino, Risa Kimura, Tatsuo Nakajima, Kana Shimizu, **Masahito Ohue**, Yutaka Akiyama: A playful tool for predicting protein-protein docking, In *Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM 2019)*, Article No. 40, 5 pages, 2019.
@@ -433,26 +433,26 @@ home: false
   [ [ACM Digital Library](https://doi.org/10.1145/3365610.3368409) ]
 
 - **Masahito Ohue**, Marina Yamasawa, Kazuki Izawa, Yutaka Akiyama: Parallelized pipeline for whole genome shotgun metagenomics with GHOSTZ-GPU and MEGAN, In *Proceedings of the 19th annual IEEE International Conference on Bioinformatics and Bioengineering (IEEE BIBE 2019)*, 152-156, 2019. doi: 10.1109/BIBE.2019.00035   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Download](/)\* | [IEEE Xplore](https://doi.org/10.1109/BIBE.2019.00035) | [Slide](https://www.slideshare.net/tonets/parallelized-pipeline-for-whole-genome-shotgun-metagenomics-with-ghostzgpu-and-megan/tonets/parallelized-pipeline-for-whole-genome-shotgun-metagenomics-with-ghostzgpu-and-megan) ]
   　\*2019 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - **Masahito Ohue**, Ryota Ii, Keisuke Yanagisawa, Yutaka Akiyama: Molecular activity prediction using graph convolutional deep neural network considering distance on a molecular graph, In *Proceedings of the 2019 International Conference on Parallel and Distributed Processing Techniques & Applications (PDPTA'19)*, 122-128, Las Vegas, NV, USA, July 29, 2019.   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Paper](https://csce.ucmss.com/cr/books/2019/LFS/CSREA2019/PDP3528.pdf) | [arXiv](http://arxiv.org/abs/1907.01103) | [Slide](https://www.slideshare.net/tonets/pdpta19ohue/) ]
 
 - Kento Aoyama, Yuki Yamamoto, **Masahito Ohue**, Yutaka Akiyama: Performance evaluation of MEGADOCK protein-protein interaction prediction system implemented with distributed containers on a cloud computing environment, In *Proceedings of the 2019 International Conference on Parallel and Distributed Processing Techniques & Applications (PDPTA'19)*, 175-181, Las Vegas, NV, USA, July 29, 2019.   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Paper](https://csce.ucmss.com/cr/books/2019/LFS/CSREA2019/PDP3540.pdf) | Slide ]
 
 - Tomohiro Ban, **Masahito Ohue**, Yutaka Akiyama: Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction, In *Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)*, 8 pages, Orlando, FL, USA, October 19-21, 2017. doi: 10.1109/ICCABS.2017.8114299   
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Download](/)\* | [IEEE Xplore](https://doi.org/10.1109/ICCABS.2017.8114299) | Slide ]
   　\*2017 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 - **Masahito Ohue**, Takuro Yamazaki, Tomohiro Ban, Yutaka Akiyama: Link Mining for Kernel-based Compound-Protein Interaction Predictions Using a Chemogenomics Approach, In *Proceedings of the Thirteenth International Conference On Intelligent Computing (ICIC2017)* (Lecture Notes in Computer Science), **10362**, 549-558, Liverpool,UK August 7-10, 2017. doi: 10.1007/978-3-319-63312-1_48
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Springer](https://link.springer.com/chapter/10.1007/978-3-319-63312-1_48) | [arXiv](https://arxiv.org/abs/1705.01667) | [Slide](https://www.slideshare.net/tonets/icic2017) ]
 
 - Shogo D. Suzuki, **Masahito Ohue**, Yutaka Akiyama: Learning-to-rank based compound virtual screening by using pairwise kernel with multiple heterogeneous experimental data, In *Proceedings of 22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)*, 114-119, 2017.   
@@ -463,17 +463,17 @@ home: false
 
 - Takehiro Shimoda, Takashi Ishida, Shuji Suzuki, **Masahito Ohue**, Yutaka Akiyama: MEGADOCK-GPU: Acceleration of Protein-Protein Docking Calculation on GPUs, In *Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine 2013 (ACM-BCB 2013)*, *2nd International Workshop on Parallel and Cloud-based Bioinformatics and Biomedicine (ParBio2013)*, 884-890, 2013. doi: 10.1145/2506583.2506693
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Download](/)\* | [ACM Digital Library](http://dl.acm.org/citation.cfm?id=2506693) | [Slide](/) ]
   　\*ACM, 2013. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version was published in BCB'13,
 
 - **Masahito Ohue**, Yuri Matsuzaki, Takehiro Shimoda, Takashi Ishida, Yutaka Akiyama: Highly Precise Protein-Protein Interaction Prediction Based on Consensus Between Template-Based and *de Novo* Docking Methods, In *Proceedings of Great Lakes Bioinformatics Conference 2013 (GLBIO2013)*, 100-109, 2013.
     
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Downloadr](/) | [slide](/) ]
 
 - **Masahito Ohue**, Yuri Matsuzaki, Takashi Ishida, Yutaka Akiyama: Improvement of the Protein-Protein Docking Prediction by Introducing a Simple Hydrophobic Interaction Model: an Application to Interaction Pathway Analysis, In *Proceedings of The 7th IAPR International Conference on Pattern Recognition in Bioinformatics (PRIB2012), Lecture Notes in Bioinformatics*, **7632**:178-187, Springer Heidelberg, 2012. doi: 10.1007/978-3-642-34123-6_16  
-  ![OA.png](/assets/7ad3b301ec91.png)
+  ![OA.png](/assets/open-access-plos.svg)
   [ [Springer](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_16) | [slide](/) | [Streaming(e-Bio)](http://dna02.bio.kyutech.ac.jp/e-bio/lectures/detail/123) ]
 
 <a id="content_1_4"></a>

@@ -12,7 +12,7 @@
     "height": 20
   },
   "55f8b4747ffa.png": {
-    "kind": "icon",
+    "kind": "scholar",
     "alt": "Google Scholar",
     "width": 381,
     "height": 64
@@ -134,5 +134,11 @@
     "alt": "Distribution of decoy ligand centers",
     "width": 384,
     "height": 288
+  },
+  "open-access-plos.svg": {
+    "kind": "open-access",
+    "alt": "Open access",
+    "width": 640,
+    "height": 1000
   }
 }
