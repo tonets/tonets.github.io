@@ -1,0 +1,26 @@
+name: Import migrated website
+on:
+  push:
+    paths: ['.github/workflows/import.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore verified migration archive
+        shell: bash
+        run: |
+          cat migration-source.b64.1 migration-source.b64.2 migration-source.b64.3 migration-source.b64.4 | base64 --decode > "$RUNNER_TEMP/migration-source.zip"
+          echo "0eccdd3bee3bcb167ba269d34c32c8e325b5d459aa03c3d3dd3c8773ddb75696  $RUNNER_TEMP/migration-source.zip" | sha256sum --check
+          python3 -m zipfile -e "$RUNNER_TEMP/migration-source.zip" .
+      - name: Save editable source files
+        run: |
+          git rm migration-source.b64.1 migration-source.b64.2 migration-source.b64.3 migration-source.b64.4
+          git add content data layouts scripts static hugo.toml README.md VALIDATION.md .gitignore
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Restore editable Hugo website source"
+          git push origin HEAD:main
