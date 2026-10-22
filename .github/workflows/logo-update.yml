@@ -1,0 +1,41 @@
+name: Update publication logos and biography
+on:
+  push:
+    paths: ['.github/workflows/logo-update.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and apply update
+        shell: python
+        run: |
+          import base64, hashlib, io, json, zipfile
+          from pathlib import Path
+          raw = base64.b64decode(Path("logo-update.b64").read_bytes())
+          assert hashlib.sha256(raw).hexdigest() == "a5a429b2cb93857a5e25b62213f16eaa95144154bcfe701c434448713618c994"
+          with zipfile.ZipFile(io.BytesIO(raw)) as z:
+              expected = json.loads(z.read("update-manifest.json"))
+              for name, previous in expected.items():
+                  p = Path(name)
+                  assert not p.is_absolute() and ".." not in p.parts
+                  if previous is None:
+                      assert not p.exists(), f"New path already exists: {name}"
+                      continue
+                  data = p.read_bytes()
+                  actual = hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
+                  assert actual == previous, f"Concurrent edit detected: {name}"
+              for name in expected:
+                  p = Path(name)
+                  p.write_bytes(z.read(name))
+      - name: Save updated source
+        run: |
+          git rm logo-update.b64
+          git add content data static
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Improve publication logos and simplify biography"
+          git push origin HEAD:main
