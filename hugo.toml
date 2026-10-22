@@ -1,0 +1,14 @@
+baseURL = 'https://tonets.github.io/'
+defaultContentLanguage = 'ja'
+locale = 'ja-JP'
+title = '大上 雅史 / Masahito Ohue'
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 4
+ordered = false
+[params]
+description = '東京科学大学 准教授 大上雅史の個人サイト。研究、論文、経歴、研究メモ。'

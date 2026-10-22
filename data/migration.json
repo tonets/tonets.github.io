@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-22",
+  "pages": [
+    {
+      "title": "麻雀",
+      "path": "content/other/mahjong.md",
+      "route": "/other/mahjong/",
+      "source_characters": 3067,
+      "markdown_bytes": 6991
+    },
+    {
+      "title": "TSUBAME関連",
+      "path": "content/notes/tsubame.md",
+      "route": "/notes/tsubame/",
+      "source_characters": 1541,
+      "markdown_bytes": 2084
+    },
+    {
+      "title": "研究メモ",
+      "path": "content/notes.md",
+      "route": "/notes/",
+      "source_characters": 216,
+      "markdown_bytes": 425
+    },
+    {
+      "title": "ソフトウェア",
+      "path": "content/software.md",
+      "route": "/software/",
+      "source_characters": 292,
+      "markdown_bytes": 753
+    },
+    {
+      "title": "PDBのchain名を変える",
+      "path": "content/notes/pdb-rename-chain.md",
+      "route": "/notes/pdb-rename-chain/",
+      "source_characters": 862,
+      "markdown_bytes": 1056
+    },
+    {
+      "title": "Publications",
+      "path": "content/en/publications.md",
+      "route": "/en/publications/",
+      "source_characters": 26187,
+      "markdown_bytes": 30530
+    },
+    {
+      "title": "ZRANKを動かす",
+      "path": "content/notes/zrank.md",
+      "route": "/notes/zrank/",
+      "source_characters": 463,
+      "markdown_bytes": 801
+    },
+    {
+      "title": "研究メモ/protein-protein interaction databases",
+      "path": "content/notes/ppi-databases.md",
+      "route": "/notes/ppi-databases/",
+      "source_characters": 895,
+      "markdown_bytes": 970
+    },
+    {
+      "title": "その他",
+      "path": "content/other.md",
+      "route": "/other/",
+      "source_characters": 231,
+      "markdown_bytes": 509
+    },
+    {
+      "title": "覚え書き/研究室新メンバー向けのTips",
+      "path": "content/notes/new-members.md",
+      "route": "/notes/new-members/",
+      "source_characters": 2463,
+      "markdown_bytes": 4374
+    },
+    {
+      "title": "サクソフォン関係",
+      "path": "content/other/saxophone.md",
+      "route": "/other/saxophone/",
+      "source_characters": 645,
+      "markdown_bytes": 1598
+    },
+    {
+      "title": "PDBを取ってくる",
+      "path": "content/notes/pdb-download.md",
+      "route": "/notes/pdb-download/",
+      "source_characters": 323,
+      "markdown_bytes": 404
+    },
+    {
+      "title": "研究メモ/protein affinity benchmarks",
+      "path": "content/notes/affinity-benchmarks.md",
+      "route": "/notes/affinity-benchmarks/",
+      "source_characters": 948,
+      "markdown_bytes": 1109
+    },
+    {
+      "title": "音楽系雑記",
+      "path": "content/other/music.md",
+      "route": "/other/music/",
+      "source_characters": 2412,
+      "markdown_bytes": 6355
+    },
+    {
+      "title": "PDBをchainで分割する",
+      "path": "content/notes/pdb-split-chains.md",
+      "route": "/notes/pdb-split-chains/",
+      "source_characters": 2670,
+      "markdown_bytes": 3502
+    },
+    {
+      "title": "イベント",
+      "path": "content/archive/events.md",
+      "route": "/archive/events/",
+      "source_characters": 223,
+      "markdown_bytes": 406
+    },
+    {
+      "title": "学生奨励賞",
+      "path": "content/archive/student-awards.md",
+      "route": "/archive/student-awards/",
+      "source_characters": 219,
+      "markdown_bytes": 262
+    },
+    {
+      "title": "研究内容",
+      "path": "content/research.md",
+      "route": "/research/",
+      "source_characters": 9403,
+      "markdown_bytes": 16033
+    },
+    {
+      "title": "過去のニュース",
+      "path": "content/news.md",
+      "route": "/news/",
+      "source_characters": 23286,
+      "markdown_bytes": 43201
+    },
+    {
+      "title": "W8F5 sminar/2012.3rd",
+      "path": "content/archive/w8f5-2012-3.md",
+      "route": "/archive/w8f5-2012-3/",
+      "source_characters": 602,
+      "markdown_bytes": 1209
+    },
+    {
+      "title": "Profile",
+      "path": "content/en/profile.md",
+      "route": "/en/profile/",
+      "source_characters": 1881,
+      "markdown_bytes": 2124
+    },
+    {
+      "title": "研究成果",
+      "path": "content/publications.md",
+      "route": "/publications/",
+      "source_characters": 107533,
+      "markdown_bytes": 174757
+    },
+    {
+      "title": "English page",
+      "path": "content/en/_index.md",
+      "route": "/en/",
+      "source_characters": 460,
+      "markdown_bytes": 814
+    },
+    {
+      "title": "Masahito Ohue",
+      "path": "content/archive/old-home.md",
+      "route": "/archive/old-home/",
+      "source_characters": 485,
+      "markdown_bytes": 776
+    },
+    {
+      "title": "所属希望の方へ",
+      "path": "content/join.md",
+      "route": "/join/",
+      "source_characters": 3642,
+      "markdown_bytes": 7164
+    },
+    {
+      "title": "受賞",
+      "path": "content/awards.md",
+      "route": "/awards/",
+      "source_characters": 5357,
+      "markdown_bytes": 9642
+    },
+    {
+      "title": "PHP",
+      "path": "content/notes/php.md",
+      "route": "/notes/php/",
+      "source_characters": 151,
+      "markdown_bytes": 203
+    },
+    {
+      "title": "編曲",
+      "path": "content/other/arrangements.md",
+      "route": "/other/arrangements/",
+      "source_characters": 1002,
+      "markdown_bytes": 2281
+    },
+    {
+      "title": "行頭にスペースを入れるワンライナー",
+      "path": "content/notes/indent-text.md",
+      "route": "/notes/indent-text/",
+      "source_characters": 41,
+      "markdown_bytes": 58
+    },
+    {
+      "title": "PyMOL",
+      "path": "content/notes/pymol.md",
+      "route": "/notes/pymol/",
+      "source_characters": 1362,
+      "markdown_bytes": 1658
+    },
+    {
+      "title": "protein-protein docking tools",
+      "path": "content/notes/docking-tools.md",
+      "route": "/notes/docking-tools/",
+      "source_characters": 681,
+      "markdown_bytes": 777
+    },
+    {
+      "title": "PDBを綺麗にする",
+      "path": "content/notes/pdb-clean.md",
+      "route": "/notes/pdb-clean/",
+      "source_characters": 790,
+      "markdown_bytes": 1168
+    },
+    {
+      "title": "W8F5 seminar",
+      "path": "content/archive/w8f5-seminar.md",
+      "route": "/archive/w8f5-seminar/",
+      "source_characters": 434,
+      "markdown_bytes": 919
+    },
+    {
+      "title": "PDB toolbox",
+      "path": "content/notes/pdb-toolbox.md",
+      "route": "/notes/pdb-toolbox/",
+      "source_characters": 217,
+      "markdown_bytes": 600
+    },
+    {
+      "title": "FrontPage",
+      "path": "content/_index.md",
+      "route": "/",
+      "source_characters": 3145,
+      "markdown_bytes": 6012
+    },
+    {
+      "title": "ZDOCKを動かす",
+      "path": "content/notes/zdock.md",
+      "route": "/notes/zdock/",
+      "source_characters": 770,
+      "markdown_bytes": 1269
+    },
+    {
+      "title": "指揮者はなぜ必要か",
+      "path": "content/other/conductors.md",
+      "route": "/other/conductors/",
+      "source_characters": 132,
+      "markdown_bytes": 331
+    },
+    {
+      "title": "decoy ligand重心の分布図を作る",
+      "path": "content/notes/decoy-centroids.md",
+      "route": "/notes/decoy-centroids/",
+      "source_characters": 5150,
+      "markdown_bytes": 8783
+    },
+    {
+      "title": "編入学について",
+      "path": "content/archive/transfer-admission.md",
+      "route": "/archive/transfer-admission/",
+      "source_characters": 575,
+      "markdown_bytes": 1552
+    },
+    {
+      "title": "プロフィール",
+      "path": "content/profile.md",
+      "route": "/profile/",
+      "source_characters": 6082,
+      "markdown_bytes": 11678
+    },
+    {
+      "title": "BioPython",
+      "path": "content/notes/biopython.md",
+      "route": "/notes/biopython/",
+      "source_characters": 1039,
+      "markdown_bytes": 1320
+    },
+    {
+      "title": "研究メモ/protein complex benchmarks",
+      "path": "content/notes/docking-benchmarks.md",
+      "route": "/notes/docking-benchmarks/",
+      "source_characters": 3909,
+      "markdown_bytes": 5462
+    },
+    {
+      "title": "学会で訪れた場所",
+      "path": "content/archive/visited-places.md",
+      "route": "/archive/visited-places/",
+      "source_characters": 436,
+      "markdown_bytes": 846
+    }
+  ],
+  "assets": {
+    "https://www.bi.cs.titech.ac.jp/megadock/megadock-logo-s.png": "assets/fa2b1e79606c.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=Publications&src=OA.png": "assets/04edf7a05619.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=we.png": "assets/488eee0c153a.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=we2.png": "assets/29dfed6e95a7.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=icic2017.png": "assets/3985cbc2df44.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=spresso_logo.png": "assets/4dd72bfb02a4.png",
+    "https://www.bi.cs.titech.ac.jp/assets/assets/images/logo.png": "assets/39abe38c9d3a.png",
+    "https://www.bi.cs.titech.ac.jp/megadock/megadock-logo-ss.png": "assets/e332429c7bfb.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=ppd.png": "assets/256de92e912d.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=ppi.png": "assets/f43799a9a85a.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=pri.png": "assets/e66920e6acd4.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=ch.png": "assets/5a70b9243997.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C6%E2%CD%C6&src=apo.png": "assets/a88bc2b6c82d.png",
+    "https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png": "assets/55f8b4747ffa.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C0%AE%B2%CC&src=ORCID.png": "assets/f6956cfe4d41.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C0%AE%B2%CC&src=rmap.png": "assets/bc1798d4bbdd.png",
+    "https://nrid.nii.ac.jp/static/images/ci-home-researcher-ja.png": "assets/c7da0527876a.png",
+    "https://www.bi.cs.titech.ac.jp/~ohue/index.php?plugin=ref&page=FrontPage&src=ScienceTokyo_LOGO-A_RGB_S.png": "assets/68e6155a1793.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=%B8%A6%B5%E6%C0%AE%B2%CC&src=OA.png": "assets/7ad3b301ec91.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=English%20page&src=ScienceTokyo_LOGO-A_RGB_S.png": "assets/d360603fe755.png",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=English%20page&src=ohue2.jpg": "assets/1c679a26f6a1.jpg",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=FrontPage&src=ScienceTokyo_LOGO-A_RGB_S.png": "assets/b5802aae2cf3.png",
+    "https://www.li.comp.isct.ac.jp/wp-content/uploads/2025/02/ohue4.jpg": "assets/4cba25a64806.jpg",
+    "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?plugin=ref&page=decoy%20ligand%BD%C5%BF%B4%A4%CE%CA%AC%C9%DB%BF%DE%A4%F2%BA%EE%A4%EB&src=1ACB_Centers.png": "assets/dfc37873fab0.png"
+  },
+  "asset_errors": [
+    {
+      "url": "https://www.li.comp.isct.ac.jp/wp-content/uploads/2025/02/ohue4.jpg",
+      "error": "503 Server Error: Service Unavailable for url: https://www.li.comp.isct.ac.jp/wp-content/uploads/2025/02/ohue4.jpg"
+    },
+    {
+      "url": "https://www.bi.cs.titech.ac.jp/assets/assets/images/logo.png",
+      "error": "HTTPSConnectionPool(host='www.bi.cs.titech.ac.jp', port=443): Read timed out. (read timeout=35)"
+    }
+  ],
+  "unresolved": [
+    {
+      "page": "音楽系雑記",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%BC%F1%CC%A3&refer=%B2%BB%B3%DA%B7%CF%BB%A8%B5%AD"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=SIGBIO23&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=JSBi2010&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%C0%B8%CC%BF%BE%F0%CA%F3%B2%CA%B3%D8%BC%E3%BC%EA%A4%CE%B2%F1%C2%E82%B2%F3%B8%A6%B5%E6%B2%F1&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=InCoB2010&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%C2%E850%B2%F3%C0%B8%CA%AA%CA%AA%CD%FD%BC%E3%BC%EA%A4%CE%B2%F1%B2%C6%A4%CE%B3%D8%B9%BB&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%C2%E829%B2%F3%A5%BF%A5%F3%A5%D1%A5%AF%BC%C1%B3%CB%BB%C0%B9%BD%C2%A4%CD%FD%CF%C0%CA%D9%B6%AF%B2%F1&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%C0%B8%CC%BF%C2%CE%C5%FD%B9%E7%A5%B7%A5%DF%A5%E5%A5%EC%A1%BC%A5%B7%A5%E7%A5%F3%A5%B5%A5%DE%A1%BC%A5%B9%A5%AF%A1%BC%A5%EB&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=SIGBIO20&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=SIGMPS78&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=DEIM2010&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=GIW2009&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=KSBSB-CBI2010&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=SIGBIO18&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "イベント",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=SIGBIO17&refer=%A5%A4%A5%D9%A5%F3%A5%C8"
+    },
+    {
+      "page": "Masahito Ohue",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=Research&refer=Masahito%20Ohue"
+    },
+    {
+      "page": "行頭にスペースを入れるワンライナー",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%B3%D0%A4%A8%BD%F1%A4%AD&refer=%B9%D4%C6%AC%A4%CB%A5%B9%A5%DA%A1%BC%A5%B9%A4%F2%C6%FE%A4%EC%A4%EB%A5%EF%A5%F3%A5%E9%A5%A4%A5%CA%A1%BC"
+    },
+    {
+      "page": "プロフィール",
+      "target": "?",
+      "url": "https://www.bi.cs.titech.ac.jp:443/~ohue/index.php?cmd=edit&page=%BC%F1%CC%A3&refer=%A5%D7%A5%ED%A5%D5%A5%A3%A1%BC%A5%EB"
+    }
+  ]
+}

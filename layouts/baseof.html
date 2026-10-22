@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ .Params.locale | default "ja" }}">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | Masahito Ohue{{ end }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<meta name="color-scheme" content="light"><link rel="stylesheet" href="{{ "assets/site.css" | relURL }}">
+{{ if not (hasPrefix .Site.BaseURL "https://example.invalid") }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
+</head>
+<body id="top">
+<a class="skip" href="#main">本文へ / Skip to content</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="{{ "" | relURL }}"><span class="brand-mark">MO</span><span>MASAHITO OHUE<small>SCIENCE TOKYO</small></span></a><nav aria-label="Language"><a href="{{ "" | relURL }}" lang="ja">日本語</a><span>/</span><a href="{{ "en/" | relURL }}" lang="en">English</a></nav></div></header>
+<div class="shell">
+<aside class="sidebar"><p class="nav-label">{{ if eq .Params.locale "en" }}PERSONAL WEBSITE{{ else }}個人ウェブサイト{{ end }}</p>
+<nav aria-label="Main navigation">{{ if eq .Params.locale "en" }}
+{{ range slice (dict "name" "Home" "path" "en/") (dict "name" "Profile" "path" "en/profile/") (dict "name" "Publications" "path" "en/publications/") }}<a href="{{ .path | relURL }}">{{ .name }}</a>{{ end }}
+{{ else }}
+{{ range slice (dict "name" "トップ" "path" "") (dict "name" "プロフィール" "path" "profile/") (dict "name" "研究内容" "path" "research/") (dict "name" "研究成果" "path" "publications/") (dict "name" "受賞" "path" "awards/") (dict "name" "過去のニュース" "path" "news/") (dict "name" "研究メモ" "path" "notes/") (dict "name" "その他" "path" "other/") (dict "name" "所属希望の方へ" "path" "join/") }}<a href="{{ .path | relURL }}">{{ .name }}</a>{{ end }}
+{{ end }}</nav>
+<div class="sidebar-foot"><a href="{{ "archive/" | relURL }}">全ページ一覧 / All pages</a><a href="https://www.li.comp.isct.ac.jp/">Ohue Laboratory <span aria-hidden="true">↗</span></a><a href="https://www.isct.ac.jp/">Institute of Science Tokyo <span aria-hidden="true">↗</span></a></div>
+</aside>
+<main id="main">{{ block "main" . }}{{ end }}</main>
+</div>
+<footer><div><span>© Masahito Ohue</span><a href="#top">ページ上部へ ↑</a></div></footer>
+<script src="{{ "assets/site.js" | relURL }}" defer></script>
+</body></html>

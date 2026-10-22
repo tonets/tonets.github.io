@@ -1,0 +1,1 @@
+<img src="{{ if hasPrefix .Destination "/" }}{{ (strings.TrimPrefix "/" .Destination) | relURL }}{{ else }}{{ .Destination | safeURL }}{{ end }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"{{ with .Title }} title="{{ . }}"{{ end }}>
