@@ -4,7 +4,7 @@ locale: "ja"
 toc: false
 ---
 
-既存サイトから移行した公開ページの一覧。
+既存サイトから移行した公開ページの一覧です。
 
 - [BioPython](/notes/biopython/)
 - [English page](/en/)

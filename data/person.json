@@ -51,11 +51,11 @@
   },
   "portrait": "/assets/1c679a26f6a1.jpg",
   "bio": {
-    "ja": "1987年生まれ、石川県出身。博士（工学）。",
+    "ja": "1987年生まれ、石川県出身です。博士（工学）の学位を取得しています。",
     "en": "Born in 1987 in Ishikawa, Japan. Ph.D. in Engineering."
   },
   "mission": {
-    "ja": "生命科学・化学・創薬の諸問題を情報科学で解決し、ライフイノベーションを加速する。",
+    "ja": "生命科学・化学・創薬の諸問題を情報科学で解決し、ライフイノベーションを加速します。",
     "en": "Advancing life science, chemistry, and drug discovery through information science to accelerate innovation."
   }
 }

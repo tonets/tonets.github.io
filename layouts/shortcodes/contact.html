@@ -1,4 +1,4 @@
 {{ $lang := .Page.Params.locale | default "ja" }}{{ $person := hugo.Data.person }}
 <section class="contact"><h2 id="contact">{{ if eq $lang "ja" }}連絡先{{ else }}Contact{{ end }}</h2>
 <p>{{ index $person.campus $lang }}<br>{{ index $person.address $lang }}</p>
-<p>Tel: {{ index $person.phone $lang }} · Fax: {{ index $person.fax $lang }}<br>Email: {{ $person.email_display }}<br><small>{{ if eq $lang "ja" }}(at) は @ に置換。{{ else }}Replace (at) with @.{{ end }}</small></p></section>
+<p>Tel: {{ index $person.phone $lang }} · Fax: {{ index $person.fax $lang }}<br>Email: {{ $person.email_display }}<br><small>{{ if eq $lang "ja" }}(at) は @ に置き換えてください。{{ else }}Replace (at) with @.{{ end }}</small></p></section>
