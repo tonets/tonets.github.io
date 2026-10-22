@@ -22,7 +22,7 @@ class Page(HTMLParser):
 root = Path(sys.argv[1] if len(sys.argv)>1 else 'public').resolve()
 pages = {p.resolve(): Page(p) for p in root.rglob('*.html')}
 home = pages[root/'index.html']
-style = next(x for x in home.images if x.endswith('/assets/site.css'))
+style = next(x for x in home.images if urlsplit(x).path.endswith('/assets/site.css'))
 prefix = urlsplit(style).path.removesuffix('/assets/site.css')
 errors=[]; checked=0
 for path, page in pages.items():
