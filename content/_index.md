@@ -99,9 +99,3 @@ Email: ohue (at) comp.isct.ac.jp
 \* (at)は@に置換してください．
 
 ---
-
-last modified: 2026-09-17 (木) 14:21:32
-
-Counter: 74830,
-today: 18,
-yesterday: 35
