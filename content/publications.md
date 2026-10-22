@@ -2,7 +2,7 @@
 counterpart: "/en/publications/"
 title: "研究成果"
 source_title: "研究成果"
-source_url: "https://www.bi.cs.titech.ac.jp/~ohue/index.php?%B8%A6%B5%E6%C0%AE%B2%CC"
+source_url: "https://www.li.comp.isct.ac.jp/publications"
 locale: "ja"
 toc: true
 home: false
@@ -27,11 +27,35 @@ home: false
 
 #### プレプリント（under review） <a id="o2ca7968"></a>
 
+- Kairi Furui, **Masahito Ohue**: ProtMutMap: Predicting Protein Binding Free Energy Changes Using Multiple-Mutation Networks, *ChemRxiv preprint, 2026*. doi: 10.26434/chemrxiv.15009337/v1
+  [ [ChemRxiv](https://doi.org/10.26434/chemrxiv.15009337/v1) ]
+
+- Kairi Furui, **Masahito Ohue**: Adapting Boltz-2 with limited experimental activity data improves early enrichment in virtual screening, *arXiv preprint, 2026*. doi: 10.48550/arXiv.2609.24302
+  [ [arXiv](https://doi.org/10.48550/arXiv.2609.24302) ]
+
 - Midori Arai, Yoshinori Makita, Shun Saito, Shiina Suzuki, Yuki Narushima, Nanoha Izawa, Yuki Tanaka, Kairi Furui, **Masahito Ohue**, Masami Ishibashi: The Indole Rocaglamide Induces S and G2/M Phase Cell Cycle Arrest in Small Cell Lung Cancer Cells Through ASCL1 Translation Inhibition. *SSRN preprint*. <http://dx.doi.org/10.2139/ssrn.4493242>
 
 <a id="content_1_2"></a>
 
 ### 査読付き学術論文誌 <a id="t93bc7d8s"></a>
+
+- Apakorn Kengkanna, **Masahito Ohue**: Catalyst-specialized Chemical Language Model Based on Transformer Variational Autoencoder for Catalyst Design and Discovery, *Advanced Intelligent Discovery, 2026 (in press)*. doi: 10.1002/aidi.70161
+  [ [Journal Website](https://doi.org/10.1002/aidi.70161) ]
+
+- Kairi Furui, Apakorn Kengkanna, Koh Sakano, **Masahito Ohue**: Molecular absorption and fluorescence property prediction via a multimodal consensus model: Winning solution for the transmittance category of the 2nd EUOS/SLAS Joint Challenge, *SLAS Technology, 42: 100466, 2026*. doi: 10.1016/j.slast.2026.100466
+  [ [Journal Website](https://doi.org/10.1016/j.slast.2026.100466) ]
+
+- Okumura T, Matsumoto K, Miyamoto K, Nomura T, Kairi Furui, Takuya Fujie, **Masahito Ohue**, Liu Y, Nakamura S, Nakanishi K, Okada K, Maenaka K, Ueda M: A dual-mode molecular glue for precision control of plant hormone co-receptor interactions in rice, *Cell Reports Physical Science, 7(10): 103549, 2026*. doi: 10.1016/j.xcrp.2026.103549
+  [ [Journal Website](https://doi.org/10.1016/j.xcrp.2026.103549) ]
+
+- Kairi Furui, **Masahito Ohue**: PairMap2: a web application for intermediate-molecule insertion in relative binding free energy calculations, *Molecular Informatics, 45(8): e70046, 2026*. doi: 10.1002/minf.70046
+  [ [Journal Website](https://doi.org/10.1002/minf.70046) ]
+
+- Masuda G, Funakoshi Y, Iizumi S, Yakushijin K, Ohji G, Minami H, **Masahito Ohue**: LM-QASAS: Reference-free identification of antigen-specific sequences from the BCR repertoire using antibody language models, *Frontiers in Immunology, 17: 1844788, 2026*. doi: 10.3389/fimmu.2026.1844788
+  [ [Journal Website](https://doi.org/10.3389/fimmu.2026.1844788) ]
+
+- Koh Sakano, Kairi Furui, Apakorn Kengkanna, Yuta Kikuchi, **Masahito Ohue**: Chemical Language Models for Natural Product Discovery, *Natural Product Reports, in press*. doi: 10.1039/D6NP00002A
+  [ [Journal Website](https://doi.org/10.1039/D6NP00002A) ]
 
 - Sho Masunaga, Kairi Furui, Apakorn Kengkanna, **Masahito Ohue**: GraphBioisostere: general bioisostere prediction model with deep graph neural network, *The Journal of Supercomputing*, 82: 132, 2026. doi: 10.1007/s11227-026-08232-y   
   ![OA.png](/assets/open-access-plos.svg)
@@ -344,15 +368,21 @@ home: false
 
 ### 査読付き国際会議（フルペーパー，口頭発表） <a id="bf719595"></a>
 
+- Deguchi T, Nakamura K, **Masahito Ohue**: MHC Class II Peptide Presentation Prediction by Integrating Confidence Metrics from Boltz-2 Protein Complex Predictions, *The 32nd Int’l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA’26), 2026 (accepted)*
+
+- Aoki K, **Masahito Ohue**: Target-Specific Compound Activity Prediction with Contrastive Learning Incorporating Protein-Ligand Binding Structures, *The 32nd Int’l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA’26), 2026 (accepted)*
+
+- Tokoi A, Kairi Furui, Watanabe Y, **Masahito Ohue**: Computational Design of Common-Light-Chain CDR-L3 for HER2/HER3 Bispecific Antibodies, *The 32nd Int’l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA’26), 2026 (accepted)*
+
 - Kairi Furui, **Masahito Ohue**: Boltzina: Efficient and Accurate Virtual Screening via Docking-Guided Binding Prediction with Boltz-2, In Proceedings of *AI4Mat Workshop on NeurIPS 2025*, 2025.   
   ![OA.png](/assets/open-access-plos.svg)
   [ [Proceedings Website](https://openreview.net/forum?id=OwtEQsd2hN) | [arXiv](https://doi.org/10.48550/arXiv.2508.17555) | [GitHub](https://github.com/ohuelab/boltzina) ]
 
-- Sho Masunaga, Kairi Furui, Apakorn Kengkanna, **Masahito Ohue**: GraphBioisostere: General Bioisostere Prediction Model with Deep Graph Neural Network, In *PDPTA’25*. (accepted)   
-  [ [[Proceedings Website>]] ]
+- Sho Masunaga, Kairi Furui, Apakorn Kengkanna, **Masahito Ohue**: GraphBioisostere: General Bioisostere Prediction Model with Deep Graph Neural Network, *The 31st Int’l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA’25), Communications in Computer and Information Science, 2932: 440-449, 2026*. doi: 10.1007/978-3-032-22193-3_34
+  [ [Proceedings Website](https://doi.org/10.1007/978-3-032-22193-3_34) ]
 
-- **Masahito Ohue**, Kairi Furui: GBDT-based Model and Web Tool for Prediction of Blood-Placental Barrier Permeability of Small Molecules, In *PDPTA’25*. (accepted)   
-  [ [[Proceedings Website>]] ]
+- **Masahito Ohue**, Kairi Furui: GBDT-based Model and Web Tool for Prediction of Blood-Placental Barrier Permeability of Small Molecules, *The 31st Int’l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA’25), Communications in Computer and Information Science, 2932: 450-455, 2026*. doi: 10.1007/978-3-032-22193-3_35
+  [ [Proceedings Website](https://doi.org/10.1007/978-3-032-22193-3_35) ]
 
 - Tsutaoka T, Kato N, Nishino T, Li Y, **Masahito Ohue**: Predicting Antibody Stability pH Values from Amino Acid Sequences: Leveraging Protein Language Models for Formulation Optimization, In Proceedings of *IEEE BIBM 2024*, 240-243, 2024. doi: 10.1109/BIBM62325.2024.10822009   
   ![OA.png](/assets/open-access-plos.svg)
@@ -480,6 +510,18 @@ home: false
 
 ### 解説 <a id="a6827939"></a>
 
+- **大上雅史**: AIが加速する創薬分子設計, *BIO INDUSTRY, 43(7): 28-34, シーエムシー出版, 2026*
+
+- **大上雅史**: 独立直後の研究費③：財団助成から基盤（B），創発，そしてチーム型研究へ, *実験医学, 2026年7月号, 44(11): 1719-1722, 羊土社, 2026*. doi: 10.18958/7967-00001-0006549-00
+  [ [Journal Website](https://doi.org/10.18958/7967-00001-0006549-00) ]
+
+- **大上雅史**: AlphaFoldを用いた蛋白質構造解析の最前線, *臨床免疫・アレルギー科, 85(6): 572-577, 2026*
+
+- 古井海里, **大上雅史**: タンパク質言語モデルの発展と応用, *JSBi Bioinformatics Review, 7(1): 15-30, 2026*. doi: 10.11234/jsbibr.2026.1
+  [ [Journal Website](https://doi.org/10.11234/jsbibr.2026.1) ]
+
+- **大上雅史**: 生命を読むAI：言語モデルと創薬, *現代化学 2026年4月号, 37-38, 東京化学同人, 2026*
+
 - 船越洋平, 大路剛, 松谷隆治, **大上雅史**, 藥師神公和: 新規免疫反応評価法“QASAS法”の可能性, *アレルギー∞リウマチ性疾患*, 45(14): 1132-1136, 2025.   
   [ [Book Website](http://hokuryukan-ns.co.jp/cms/books/%e3%82%a2%e3%83%ac%e3%83%ab%e3%82%ae%e3%83%bc%e3%83%aa%e3%82%a6%e3%83%9e%e3%83%81%e6%80%a7%e7%96%be%e6%82%a3-2025%e5%b9%b412%e6%9c%88%e5%8f%b7%e3%80%80%e7%94%9f%e7%89%a9%e5%ad%a6%e7%9a%84%e8%a3%bd/) ]
 
@@ -492,8 +534,8 @@ home: false
 - **大上雅史**: タンパク質言語モデルの創薬分野での利用, *SAR News*, 48: 8-12, 2025.   
   [ [Journal Website](https://sar.pharm.or.jp/sarnews_all/) ]
 
-- **大上雅史**: AIが広げる分子設計の可能性, *Drug Delivery System*, 40(1): 62-70, 2025.   
-  [ [Journal Website](https://www.jstage.jst.go.jp/browse/dds/-char/ja) ]
+- **大上雅史**: AIが広げる分子設計の可能性, *Drug Delivery System*, 40(1): 62-70, 2025. doi: 10.2745/dds.40.62
+  [ [Journal Website](https://doi.org/10.2745/dds.40.62) ]
 
 - **大上雅史**: マルチモーダルでマルチモダリティな創薬を支援する情報技術, *実験医学*, 43(1): 13-18, 2025. doi: 10.18958/7641-00001-0001766-00   
   [ [Book Website](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=176600) ]
@@ -540,6 +582,9 @@ home: false
 <a id="content_1_5"></a>
 
 ### 著書 <a id="h670fc0d"></a>
+
+- Arabnia HR, Deligiannidis L, Takata M, Chiyonobu M, **Masahito Ohue**, Yasuo N, Rivas P, Orduz J (eds.): Distributed Computing, HPC, Cloud Computing, Quantum Technologies, Embedded Systems, Modeling, and Simulation, *Communications in Computer and Information Science, 2932, 2026*. doi: 10.1007/978-3-032-22193-3
+  [ [Book Website](https://doi.org/10.1007/978-3-032-22193-3) ]
 
 - 「学振申請書の書き方とコツ 改訂第２版 DC/PD獲得を目指す若者へ」，**大上雅史**，講談社，2021/3．
   - <https://www.kspub.co.jp/book/detail/5231074.html>
@@ -987,7 +1032,8 @@ home: false
 - **大上雅史**, "タンパク質の理解と制御のための構造インフォマティクス", 第65回日本腎臓学会学術総会, SY2-3, 2022/6/10. （口頭発表）
 - **大上雅史**, "AlphaFoldの計算創薬への応用と今後", 第434回CBI学会講演会 「タンパク質立体構造予測の最前線〜AlphaFold2は創薬に真のブレークスルーをもたらすのか〜」, 2022/5/26. （口頭発表）
 - **大上雅史**, "タンパク質間相互作用の理解と制御のための構造インフォマティクス", 第32回バイオメディカル研究会「最先端構造解析の現状と課題」, 2022/5/20.（口頭発表）
-- **大上雅史**, "AI・計算科学が加速する生命科学", 「機能タンパク質の構造と機能のダイナミクスと、それに基づく細胞・生体システム作動機構の研究拠点の形成」最終成果報告会, 2022/3/23.（口頭発表）
+- **大上雅史**, "AI・計算科学が加速する生命科学", 「機能タンパク質の構造と機能のダイナミクスと、それに基づく
+細胞・生体システム作動機構の研究拠点の形成」最終成果報告会, 2022/3/23.（口頭発表）
 - 古井海里，**大上雅史**: "ランク学習を用いた化合物スクリーニングにおける多様なアッセイデータの統合戦略", 第26回オープンバイオ研究会, 3/12 2022.（口頭発表）
 - 兒嶋佑季，小杉孝嗣，**大上雅史**: "タンパク質間相互作用阻害剤設計のための分子生成手法の開発", 第26回オープンバイオ研究会, 3/12 2022.（口頭発表）
 - 古井海里，**大上雅史**: "ランク学習を用いた化合物スクリーニングにおける多様なアッセイデータの統合戦略", 情報処理学会第84回全国大会, 2ZM-02, 3/3 2022.（口頭発表）[学生奨励賞 受賞]

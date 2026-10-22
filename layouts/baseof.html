@@ -8,6 +8,8 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | Masahito Ohue{{ end }}</title>
 <meta name="description" content="{{ if eq $lang "en" }}Personal website of Masahito Ohue, Associate Professor at Institute of Science Tokyo. Research, publications, and profile.{{ else }}{{ .Description | default .Site.Params.description }}{{ end }}">
 <meta name="color-scheme" content="light"><link rel="stylesheet" href="{{ "assets/site.css" | relURL }}?v={{ readFile "static/assets/site.css" | sha256 }}">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="canonical" href="{{ .Permalink }}">
 {{ with .Params.counterpart }}<link rel="alternate" hreflang="{{ if eq $lang "en" }}ja{{ else }}en{{ end }}" href="{{ (strings.TrimPrefix "/" .) | absURL }}">{{ end }}
 </head>
